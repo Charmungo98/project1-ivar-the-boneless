@@ -1,32 +1,54 @@
 @import url('https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap');
-
-/**** header css inputs ****/
-header{
-    font-family: Lugrasimo;
-    text-align: center;
-    font-size: 200%;
-    margin: 30px 20px 25px 20px;
-}
-
-body{
-    font-family: Lugrasimo;
-}
-
-.nav:hover {
-    text-decoration: none;
-    
-}
-
-nav{
-    text-align: center;
-}
-
-.nav {
-    margin: 15px 20px 0px;
-}
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&family=Roboto:wght@300&display=swap');
 
 * {
     margin: 0;
     padding: 0;
     border: none;
 }
+
+/**** header css inputs ****/
+header {
+    font-family: Lugrasimo;
+    text-align: center;
+    font-size: 200%;
+    padding: 60px 20px 35px 20px;
+    font-weight: 300;
+    color: #E2D1F9;
+    background-color: #317773;
+}
+
+body {
+    font-family: Lugrasimo;
+}
+
+
+#navbar {
+    width: 100%;
+    clear: left;
+    background-color:#E2D1F9;
+}
+
+#navbar li {
+    display: inline-block;
+    text-align: center;
+    width: 33%;
+}
+
+#navbar a {
+    display: inline-block;
+    font-family: roboto;
+    font-size: 140%;
+    font-weight: 700;
+    width: 100%;
+    padding: 10px;
+    color: #317773;
+}
+
+#navbar a:hover {
+    text-decoration: none;
+    background-color: #317773;
+    color: #E2D1F9;
+
+}
+
