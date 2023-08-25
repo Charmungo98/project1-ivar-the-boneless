@@ -9,13 +9,15 @@
 
 /**** header css inputs ****/
 header {
+    width: 100%;
+    height: 100%;
     font-family: Lugrasimo;
     text-align: center;
     font-size: 200%;
-    padding: 60px 20px 35px 20px;
+    padding: 40px 0px;
     font-weight: 300;
-    color: #E2D1F9;
-    background-color: #317773;
+    color: #f2e8ff;
+    background: url("../assets/images/Longboat.jpg") center / cover;
 }
 
 body {
@@ -26,7 +28,7 @@ body {
 #navbar {
     width: 100%;
     clear: left;
-    background-color:#E2D1F9;
+    background-color: #317773;
 }
 
 #navbar li {
@@ -42,13 +44,47 @@ body {
     font-weight: 700;
     width: 100%;
     padding: 10px;
-    color: #317773;
+    color: #E2D1F9;
 }
 
 #navbar a:hover {
     text-decoration: none;
-    background-color: #317773;
-    color: #E2D1F9;
+    background-color: #E2D1F9;
+    color: #317773;
 
 }
 
+/**** index.html content ****/
+
+#vikings-unkown-enemy {
+    float: left;
+    display: inline-block;
+    width: 50%;
+    padding: 1.92%;
+    background-color: #E2D1F9;
+}
+
+#vikings-unkown-enemy h2 {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 5px;
+    font-weight: 900;
+    color: #317773;
+}
+
+#vikings-unkown-enemy p {
+    line-height: 20px;
+    margin: auto 5%;
+    padding: 5px;
+    text-align: justify;
+    font-weight: 600;
+}
+
+#viking-drinking {
+    position: absolute;
+    display: inline-block;
+}
+
+#viking-drinking img {
+    max-width: 100%;
+}
