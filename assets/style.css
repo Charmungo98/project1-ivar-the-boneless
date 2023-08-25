@@ -1,11 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap');
 
+/**** header css inputs ****/
 header{
     font-family: Lugrasimo;
+    text-align: center;
+    font-size: 200%;
+    margin: 30px 20px 25px 20px;
 }
 
 body{
     font-family: Lugrasimo;
+}
+
+.nav:hover {
+    text-decoration: none;
+    
+}
+
+nav{
+    text-align: center;
+}
+
+.nav {
+    margin: 15px 20px 0px;
 }
 
 * {
