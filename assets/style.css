@@ -8,6 +8,15 @@
 }
 
 /**** header css inputs ****/
+.container {
+    display: flex;
+    height: 488px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+
+}
+
 header {
     width: 100%;
     height: 100%;
@@ -43,7 +52,8 @@ body {
     font-size: 140%;
     font-weight: 700;
     width: 100%;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
     color: #E2D1F9;
 }
 
@@ -57,10 +67,9 @@ body {
 /**** index.html content ****/
 
 #vikings-unkown-enemy {
+    flex:2;
     float: left;
-    display: inline-block;
-    width: 50%;
-    padding: 1.92%;
+    padding-top: 2%;
     background-color: #E2D1F9;
 }
 
@@ -75,16 +84,42 @@ body {
 #vikings-unkown-enemy p {
     line-height: 20px;
     margin: auto 5%;
-    padding: 5px;
     text-align: justify;
     font-weight: 600;
 }
 
 #viking-drinking {
-    position: absolute;
-    display: inline-block;
+    
+    width: 50%;
 }
 
 #viking-drinking img {
+    flex: 1;
     max-width: 100%;
+}
+
+/*second row*/
+
+#vikings-take-over {
+    float: right;
+        display: inline-block;
+        width: 50%;
+        padding: 2%;
+        background-color: #317773;
+}
+
+#vikings-take-over h2 {
+    text-align: center;
+        text-decoration: underline;
+        margin-bottom: 5px;
+        font-weight: 900;
+        color: #E2D1F9;
+}
+
+#vikings-take-over p {
+    line-height: 20px;
+        margin: auto 5%;
+        padding: 5px;
+        text-align: justify;
+        font-weight: 600;
 }
