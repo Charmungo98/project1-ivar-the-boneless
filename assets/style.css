@@ -7,7 +7,7 @@
     border: none;
 }
 
-/**** header css inputs ****/
+/**** index.html header ****/
 .container {
     display: flex;
     height: 488px;
@@ -26,7 +26,7 @@ header {
     padding: 40px 0px;
     font-weight: 300;
     color: #f2e8ff;
-    background: url("../assets/images/Longboat.jpg") center / cover;
+    background: url("../assets/images/longboat.jpg") center / cover;
 }
 
 body {
@@ -64,13 +64,15 @@ body {
 
 }
 
-/**** index.html content ****/
+/**** content section 1 ****/
 
 #vikings-unkown-enemy {
-    flex:2;
+    flex: 1;
+    display: inline-block;
     float: left;
     padding-top: 2%;
     background-color: #E2D1F9;
+    width: 50%;
 }
 
 #vikings-unkown-enemy h2 {
@@ -89,7 +91,7 @@ body {
 }
 
 #viking-drinking {
-    
+    display: inline-block;
     width: 50%;
 }
 
@@ -98,28 +100,144 @@ body {
     max-width: 100%;
 }
 
-/*second row*/
+/*section 2*/
 
 #vikings-take-over {
+    flex: 1;
+    display: inline-block;
+    padding-top: 2%;
     float: right;
-        display: inline-block;
-        width: 50%;
-        padding: 2%;
-        background-color: #317773;
+    background-color: #317773;
+    width: 50%;
 }
 
 #vikings-take-over h2 {
     text-align: center;
-        text-decoration: underline;
-        margin-bottom: 5px;
-        font-weight: 900;
-        color: #E2D1F9;
+    text-decoration: underline;
+    margin-bottom: 5px;
+    font-weight: 900;
+    color: #E2D1F9;
 }
 
 #vikings-take-over p {
     line-height: 20px;
-        margin: auto 5%;
-        padding: 5px;
-        text-align: justify;
-        font-weight: 600;
+    margin: auto 5%;
+    text-align: justify;
+    font-weight: 600;
+}
+
+#viking-war-cry {
+    display: inline-block;
+    width: 50%;
+}
+
+#viking-war-cry img {
+    flex: 1;
+    max-width: 100%;
+}
+
+/*** section 3 ***/
+
+#england-strikes-back {
+    flex: 1;
+    display: inline-block;
+    float: left;
+    padding-top: 2%;
+    background-color: #E2D1F9;
+    width: 50%;
+}
+
+#england-strikes-back h2 {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 5px;
+    font-weight: 900;
+    color: #317773;
+}
+
+#england-strikes-back p {
+    line-height: 20px;
+    margin: auto 5%;
+    text-align: justify;
+    font-weight: 600;
+}
+
+#axes {
+    display: inline-block;
+    width: 50%;
+}
+
+#axes img {
+    flex: 1;
+    max-width: 100%;
+}
+
+/*** section 4 ***/
+#return-of-the-vikings {
+    flex: 1;
+    display: inline-block;
+    padding-top: 2%;
+    float: right;
+    background-color: #317773;
+    width: 50%;
+}
+
+#return-of-the-vikings h2 {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 5px;
+    font-weight: 900;
+    color: #E2D1F9;
+}
+
+#return-of-the-vikings p {
+    line-height: 20px;
+    margin: auto 5%;
+    text-align: justify;
+    font-weight: 600;
+}
+
+#vikings {
+    display: inline-block;
+    width: 50%;
+}
+
+#vikings img {
+    flex: 1;
+    max-width: 100%;
+}
+
+/*** section 5 ***/
+#enter-the-normans {
+    flex: 1;
+    display: inline-block;
+    float: left;
+    padding-top: 2%;
+    background-color: #E2D1F9;
+    width: 50%;
+}
+
+#enter-the-normans h2 {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 5px;
+    font-weight: 900;
+    color: #317773
+}
+
+#enter-the-normans p {
+    line-height: 20px;
+    margin: auto 5%;
+    text-align: justify;
+    font-weight: 600;
+}
+
+#william-img {
+    display: inline-block;
+    width: 50%;
+}
+
+#william-img img {
+    flex: 1;
+    max-width: 100%;
 }
