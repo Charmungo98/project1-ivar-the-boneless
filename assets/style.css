@@ -7,7 +7,15 @@
     border: none;
 }
 
-/**** header css inputs ****/
+/**** index.html header ****/
+.container {
+    display: flex;
+    height: 475px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+}
+
 header {
     width: 100%;
     height: 100%;
@@ -17,13 +25,12 @@ header {
     padding: 40px 0px;
     font-weight: 300;
     color: #f2e8ff;
-    background: url("../assets/images/Longboat.jpg") center / cover;
+    background: url("../assets/images/longboat.jpg") center / cover;
 }
 
 body {
     font-family: Lugrasimo;
 }
-
 
 #navbar {
     width: 100%;
@@ -43,28 +50,29 @@ body {
     font-size: 140%;
     font-weight: 700;
     width: 100%;
-    padding: 10px;
-    color: #E2D1F9;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    color: #e4f6f8;
 }
 
 #navbar a:hover {
     text-decoration: none;
-    background-color: #E2D1F9;
+    background-color: #e4f6f8;
     color: #317773;
 
 }
 
-/**** index.html content ****/
+/**** content section ****/
 
-#vikings-unkown-enemy {
-    float: left;
+.left-text-content {
+    flex: 1;
     display: inline-block;
+    padding-top: 2%;
+    background-color: #e4f6f8;
     width: 50%;
-    padding: 1.92%;
-    background-color: #E2D1F9;
 }
 
-#vikings-unkown-enemy h2 {
+.left-text-content h2 {
     text-align: center;
     text-decoration: underline;
     margin-bottom: 5px;
@@ -72,19 +80,104 @@ body {
     color: #317773;
 }
 
-#vikings-unkown-enemy p {
+.left-text-content p {
     line-height: 20px;
     margin: auto 5%;
-    padding: 5px;
     text-align: justify;
     font-weight: 600;
 }
 
-#viking-drinking {
-    position: absolute;
+.right-image-format {
     display: inline-block;
+    width: 50%;
 }
 
-#viking-drinking img {
+.right-image-format img {
+    flex: 1;
+    width: 100%;
+    max-height: 475px;
+}
+
+.right-text-content {
+    flex: 1;
+    display: inline-block;
+    padding-top: 2%;
+    background-color: #317773;
+    width: 50%;
+}
+
+.right-text-content h2 {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 5px;
+    font-weight: 900;
+    color: #e4f6f8;
+}
+
+.right-text-content p {
+    line-height: 20px;
+    margin: auto 5%;
+    text-align: justify;
+    font-weight: 600;
+    color: white;
+}
+
+.left-image-format {
+    display: inline-block;
+    width: 50%;
+}
+
+.left-image-format img {
+    flex: 1;
     max-width: 100%;
+}
+
+#william-image {
+    height: 475px;
+}
+
+.footer {
+    flex: 1;
+    display: block;
+    width: 100%;
+    height: 175px;
+    background-color: #317773;
+}
+
+.footer p {
+    margin-right: 15px;
+    display: block;
+    float: inline-start;
+    color: #e4f6f8;
+    font-family: Lugrasimo;
+
+}
+
+.social-icons {
+    float: right;
+    margin: 50px 50px 100px;
+}
+
+.social-icons li {
+    display: inline;
+}
+
+
+.social-logo-img {
+    max-height: 45px;
+    max-width: 45px;
+}
+
+#facebook-logo-img {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+
+/****** ivar.html ******/
+
+article {
+    float: right;
+        padding: 20px;
+        width: 70%;
 }
