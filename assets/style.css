@@ -10,10 +10,18 @@
 /**** index.html header ****/
 .container {
     display: flex;
+<<<<<<< HEAD
     height: 475px;
     flex-direction: row;
     justify-content: center;
     align-items: stretch;
+=======
+    height: 488px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+
+>>>>>>> cc26acd9469ec55e41a013dd0a29327af50dc85c
 }
 
 header {
@@ -52,7 +60,11 @@ body {
     width: 100%;
     padding-top: 10px;
     padding-bottom: 15px;
+<<<<<<< HEAD
     color: #e4f6f8;
+=======
+    color: #E2D1F9;
+>>>>>>> cc26acd9469ec55e41a013dd0a29327af50dc85c
 }
 
 #navbar a:hover {
@@ -62,6 +74,7 @@ body {
 
 }
 
+<<<<<<< HEAD
 /**** content section ****/
 
 .left-text-content {
@@ -69,6 +82,16 @@ body {
     display: inline-block;
     padding-top: 2%;
     background-color: #e4f6f8;
+=======
+/**** content section 1 ****/
+
+#vikings-unkown-enemy {
+    flex: 1;
+    display: inline-block;
+    float: left;
+    padding-top: 2%;
+    background-color: #E2D1F9;
+>>>>>>> cc26acd9469ec55e41a013dd0a29327af50dc85c
     width: 50%;
 }
 
@@ -87,11 +110,16 @@ body {
     font-weight: 600;
 }
 
+<<<<<<< HEAD
 .right-image-format {
+=======
+#viking-drinking {
+>>>>>>> cc26acd9469ec55e41a013dd0a29327af50dc85c
     display: inline-block;
     width: 50%;
 }
 
+<<<<<<< HEAD
 .right-image-format img {
     flex: 1;
     width: 100%;
@@ -102,32 +130,173 @@ body {
     flex: 1;
     display: inline-block;
     padding-top: 2%;
+=======
+#viking-drinking img {
+    flex: 1;
+    max-width: 100%;
+}
+
+/*section 2*/
+
+#vikings-take-over {
+    flex: 1;
+    display: inline-block;
+    padding-top: 2%;
+    float: right;
+>>>>>>> cc26acd9469ec55e41a013dd0a29327af50dc85c
     background-color: #317773;
     width: 50%;
 }
 
+<<<<<<< HEAD
 .right-text-content h2 {
+=======
+#vikings-take-over h2 {
+>>>>>>> cc26acd9469ec55e41a013dd0a29327af50dc85c
     text-align: center;
     text-decoration: underline;
     margin-bottom: 5px;
     font-weight: 900;
+<<<<<<< HEAD
     color: #e4f6f8;
 }
 
 .right-text-content p {
+=======
+    color: #E2D1F9;
+}
+
+#vikings-take-over p {
+>>>>>>> cc26acd9469ec55e41a013dd0a29327af50dc85c
     line-height: 20px;
     margin: auto 5%;
     text-align: justify;
     font-weight: 600;
+<<<<<<< HEAD
     color: white;
 }
 
 .left-image-format {
+=======
+}
+
+#viking-war-cry {
+>>>>>>> cc26acd9469ec55e41a013dd0a29327af50dc85c
     display: inline-block;
     width: 50%;
 }
 
+<<<<<<< HEAD
 .left-image-format img {
+=======
+#viking-war-cry img {
+    flex: 1;
+    max-width: 100%;
+}
+
+/*** section 3 ***/
+
+#england-strikes-back {
+    flex: 1;
+    display: inline-block;
+    float: left;
+    padding-top: 2%;
+    background-color: #E2D1F9;
+    width: 50%;
+}
+
+#england-strikes-back h2 {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 5px;
+    font-weight: 900;
+    color: #317773;
+}
+
+#england-strikes-back p {
+    line-height: 20px;
+    margin: auto 5%;
+    text-align: justify;
+    font-weight: 600;
+}
+
+#axes {
+    display: inline-block;
+    width: 50%;
+}
+
+#axes img {
+    flex: 1;
+    max-width: 100%;
+}
+
+/*** section 4 ***/
+#return-of-the-vikings {
+    flex: 1;
+    display: inline-block;
+    padding-top: 2%;
+    float: right;
+    background-color: #317773;
+    width: 50%;
+}
+
+#return-of-the-vikings h2 {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 5px;
+    font-weight: 900;
+    color: #E2D1F9;
+}
+
+#return-of-the-vikings p {
+    line-height: 20px;
+    margin: auto 5%;
+    text-align: justify;
+    font-weight: 600;
+}
+
+#vikings {
+    display: inline-block;
+    width: 50%;
+}
+
+#vikings img {
+    flex: 1;
+    max-width: 100%;
+}
+
+/*** section 5 ***/
+#enter-the-normans {
+    flex: 1;
+    display: inline-block;
+    float: left;
+    padding-top: 2%;
+    background-color: #E2D1F9;
+    width: 50%;
+}
+
+#enter-the-normans h2 {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 5px;
+    font-weight: 900;
+    color: #317773
+}
+
+#enter-the-normans p {
+    line-height: 20px;
+    margin: auto 5%;
+    text-align: justify;
+    font-weight: 600;
+}
+
+#william-img {
+    display: inline-block;
+    width: 50%;
+}
+
+#william-img img {
+>>>>>>> cc26acd9469ec55e41a013dd0a29327af50dc85c
     flex: 1;
     max-width: 100%;
 }
