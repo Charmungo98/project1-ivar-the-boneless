@@ -1,26 +1,148 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
+  <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="assets/style.css" />
     <title>Ivar the Boneless</title>
-</head>
+  </head>
 
-<body>
-    <header>IVAR THE BONELESS - A VIKINGS TALE</header>
-    <nav>
-        <ul>
-            <li>
-                Home
-            </li>
-            <li>
-                <a href="ivar.html">Ivar's Life</a>
-            </li>
-            <li>
-                <a href="contact.html">Contact Us</a>
-            </li>
-        </ul>
+  <body>
+    <header>IVAR THE BONELESS - A VIKING'S TALE</header>
+    <nav id="navbar">
+      <ul>
+        <li>
+          <a href="index.html">Home</a>
+        </li>
+        <li>
+          <a href="ivar.html">Ivar's Life</a>
+        </li>
+        <li>
+          <a href="contact.html">Contact Us</a>
+        </li>
+      </ul>
     </nav>
+    
+    <div id="solar-voyager"></div>
+
+
+    <section id="form-section">
+      <form action="" method="POST">
+        
+        <div>
+            <h2>Contact Us</h2>
+          <label for="fname">First Name</label>
+          <input
+            class="form-input"
+            id="fname"
+            type="text"
+            name="first_name"
+            required
+          />
+        </div>
+        <div>
+          <label for="lname">Last Name</label>
+          <input
+            class="form-input"
+            id="lname"
+            type="text"
+            name="last_name"
+            required
+          />
+        </div>
+        <div>
+          <label for="email">Email Address</label>
+          <input
+            class="form-input"
+            id="email"
+            type="email"
+            name="email_address"
+            required
+          />
+        </div>
+        <div id="find-us">
+          <p>How did you find us?</p>
+          <div>
+            <input
+              id="social-media"
+              type="checkbox"
+              name="social-media"
+              value="social-media"
+              required
+            />
+            <label for="social-media">Social media</label>
+          </div>
+          <div>
+            <input
+              id="web-search"
+              type="checkbox"
+              name="web-search"
+              value="web-search"
+            />
+            <label for="web-search">Web search</label>
+          </div>
+          <div>
+            <input id="other" type="checkbox" name="other" value="other" />
+            <label for="other">other</label>
+          </div>
+        </div>
+        
+        <input class="book-button" type="submit" value="Submit" />
+      </form>
+    </section>
+
+    <section id="find-us-section">
+        <iframe id="map"
+            src="https://goo.gl/maps/Nve336GHKB5XQgUd7"
+            width="100%" height="426" style="border: 0" allowfullscreen="" loading="lazy"></iframe>
+    </section>
+
+    <footer class="footer">
+      <div>
+        <ul class="social-icons">
+          <li>
+            <a
+              href="https://instagram.com"
+              target="_blank"
+              rel="noopener"
+              aria-label="Visit our Instagram page (opens on a new tab)"
+              ><i class="fab fa-instagram"></i
+              ><img
+                class="social-logo-img"
+                src="assets/logos/insta.png"
+                alt="instagram logo"
+            /></a>
+          </li>
+          <li>
+            <a
+              href="https://facebook.com"
+              target="_blank"
+              rel="noopener"
+              aria-label="Visit our Facebook page (opens on a new tab)"
+              ><i class="fab fa-facebook"></i
+              ><img
+                id="facebook-logo-img"
+                src="assets/logos/facebook.png"
+                alt="facebook logo"
+            /></a>
+          </li>
+          <li>
+            <a
+              href="https://twitter.com"
+              target="_blank"
+              rel="noopener"
+              aria-label="Visit our Twitter page (opens on a new tab)"
+              ><i class="fab fa-twitter-square"></i
+              ><img
+                class="social-logo-img"
+                src="assets/logos/twitter.png"
+                alt="twitter logo"
+            /></a>
+          </li>
+          <p>Follow us on our social media</p>
+        </ul>
+      </div>
+    </footer>
+  </body>
+</html>
