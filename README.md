@@ -5,6 +5,7 @@ The website fictional website designed to educate its viewers on the timeline of
 Visit the deployed website [here].
 
 1. User Experience (UX)
+   
 2. Features
 3. Technologies Used
 4. Testing
