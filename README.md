@@ -77,7 +77,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
     - An image of Ivar is displayed next to the article to provide a more dynamic article layout.
 
 
-### 2.4 Feedback Form
+### 2.4 Contact Page
 
 * Feedback Form
 
@@ -107,7 +107,133 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
   - W3C CSS Validator was used to validate the CSS code.
 
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+
+  - Chrome DevTools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project.
+
+* [Am I Responsive?](http://ami.responsivedesign.is/#) 
+  - Am I Responsive was used to check responsiveness of the site pages across different devices.
+
 4. Testing
+
+### 4.1. Testing User Stories
+
+*  As a viewer I want to be able to navigate the website smoothly and further my lnowledge on the subject being displayed.
+
+     - The website offers a intuitive structure for the viewers to navigate and find the information they are looking for.
+
+    - The navigation bar is clearly presented in all pages for the viewers to find with ease and it is easily navigable.
+
+
+* As a viewer, I want to easily find the contact information for the author of the webiste if I have any questions.
+
+  * The footer and contact page contains a clear contact section with all necessary contacts, there is a feedback form on the contact page that allows the viewer to submit any questions or feedback they have.
+
+* As a viewer, I want to find social media links to the author of the webiste.
+
+  * The footer provides link to the author's social media channels.
+
+* As a customer, I want to find further information on the webiite's topics, this cna be found by a link to the wikipedia page on the contact page.
+
+### 4.2. Code Validation
+
+* The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) services were used to validate all pages of the project in order to ensure there were no syntax errors.
+
+  * W3C Markup Validator found an error concerning headings not being included on the main and book now images. The section tag was replaced for a div tag to correct this.
+
+  * W3C CSS Validator found no errors or warnings on my CSS.
+
+### 4.3. Automated Testing
+
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+
+  * Chrome DevTools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project.
+
+* Responsiveness
+
+  * [Am I Responsive?](http://ami.responsivedesign.is/#) was used to check responsiveness of the site pages across different devices.
+
+  * [Responsive Design Checker](https://www.responsivedesignchecker.com/) was used to check responsiveness of the site pages on different screen sizes.
+
+  * Chrome DevTools was used to test responsiveness in different screen sizes during the development process.
+
+### 4.4. Manual Testing
+
+* Browser Compatibility
+
+  * The website has been tested on the following browsers:
+
+    * **Google Chrome**
+
+        No appearance, responsiveness nor functionality issues.
+
+    * **Safari**
+
+        No appearance, responsiveness nor functionality issues.
+
+    * **Mozilla Firefox**
+
+        There was and issue with the appearance of the book buttons on the treatments page expanding all the width. This issue was corrected by changing the width property value from "fit-content" to "max-content".
+
+        No responsiveness nor functionality issues.
+
+    * **Microsoft Edge**
+
+        No appearance, responsiveness nor functionality issues.
+
+* Device compatibility
+
+  * The website has been tested on multiple devices, including:
+
+    * **MacBook Pro 15"**
+
+        No appearance, responsiveness nor functionality issues.
+
+    * **Lenovo P52 Thinkpad**
+
+        No appearance, responsiveness nor functionality issues.
+
+    * **iPad Pro 12.9"**
+
+        No appearance, responsiveness nor functionality issues.
+
+    * **iPad Pro 10.5"**
+
+        No appearance, responsiveness nor functionality issues.
+
+    * **iPhone 12**
+
+        No appearance, responsiveness nor functionality issues.
+
+    * **iPhone XR**
+
+        No appearance, responsiveness nor functionality issues.
+
+* Common Elements Testing
+
+  * All Pages
+
+    * **Navigation Bar**
+
+      * Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
+
+      * Clicking on the navigation bar's links will bring the viewer to the specified page.
+
+    * **Footer**
+
+      * Clicking on the social media links will open the specific website on a new tab.
+
+  * Contact Page
+
+    * Hovering on the submit button within the feedback form section will trigger hover effect, highlighting the button for the viewer.
+
+  * Feedback Form section
+
+    * When filling out the feedback form, the viewer is required to complete all fields before submitting.
+
+    * Clicking on the link to the Wikipedia page will direct the viewer to the relevant Wikipedia page.
+
+    * The Wikipedia page in the imedia viewfinder is functional and the viewer can scroll through the relevant Wikipedia page directly from the website.
    
 5. Deployment
 6. Credits
