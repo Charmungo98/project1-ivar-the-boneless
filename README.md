@@ -46,13 +46,11 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 * Responsive design across all device sizes.
 
-* Similar color scheme and design throughout all pages to effectively structure, categorise and present the information to the customers.
+* Similar color scheme and design throughout all pages to effectively structure, categorise and present the information to the viewers.
 
 * Header
 
-    - The header contains the business logo and fully responsive navigation bar positioned across the top of the screen.
-
-    - The business logo functions as a link to the landing page.
+    - The header contains a nuetral image background and a responsive navigation bar positioned across the top of the screen.
 
     - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color to provide feedback to the customer for a better user experience.
 
