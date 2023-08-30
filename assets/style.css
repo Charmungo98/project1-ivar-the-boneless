@@ -230,19 +230,23 @@ section form div h2 {
 }
 
 #form-section {
-    padding-top: 30px;
+    display: inline-block;
     float: left;
-    width: 50%;
+    width: 25%;
     text-align: left;
     background-color: #e4f6f8;
+    max-height: 400px;
 }
 
 #form-section h2 {
     text-align: center;
+    font-weight: 900;
 }
 
 #form-section form {
-    padding: 10px 25%;
+    padding: 25px 25px;
+    font-weight: 900;
+
 }
 
 .form-input {
@@ -266,15 +270,26 @@ section form div h2 {
     background-color: #e4f6f8;
 }
 
-#find-us-section {
+#find-out-more {
+    display: inline-block;
+    width: 25%;
+    height: 400px;
+    max-height: 400px;
+    background-color: #99e8e4;
+}
+
+#wikipedia {
+    display: inline-block;
     float: right;
     width: 50%;
+    height: 400px;
 }
 
-#find-us-section h2 {
+#wikipedia iframe {
+    width: 100%;
+    height: 100%;
+}
+
+#wikipedia h2 {
     text-align: center;
-}
-
-map {
-    width: 50%;
 }
