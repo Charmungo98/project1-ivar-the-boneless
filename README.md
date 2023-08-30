@@ -42,6 +42,53 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 2. Features
 
+### 2.1. General
+
+* Responsive design across all device sizes.
+
+* Similar color scheme and design throughout all pages to effectively structure, categorise and present the information to the customers.
+
+* Header
+
+    - The header contains the business logo and fully responsive navigation bar positioned across the top of the screen.
+
+    - The business logo functions as a link to the landing page.
+
+    - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color to provide feedback to the customer for a better user experience.
+
+* Footer
+
+    - The footer includes a smaller version of the logo and link to the business social media channels.
+
+### 2.2. Landing Page
+
+* Images
+
+    - The images are design to attract the viewers attention and provide a more interattive experience when viewing the landing/viking timeline.
+
+* Timeline content
+
+    - Contains a text with information about the timeline of th eviking raids in England.
+
+### 2.3 Article Page
+
+* Ivar the Boneless
+
+    - The article page demonstrates a breif but detailed timeline of Ivar the boneless life and qualities, it is designed to keep the information compact and easy to understand to ensure its readers attention is kept.
+
+    - An image of Ivar is displayed next to the article to provide a more dynamic article layout.
+
+
+### 2.4 Feedback Form
+
+* Feedback Form
+
+    - The form allows the viewers to provide feedback and acks questions directly from the website.
+
+* Wikipedia section
+
+    - This section displays an imedia view of Ivar's wikipedia page, providing a link and allowing the viewer to browse the wikipedia page from the website.
+
 3. Technologies Used
    
 * [Google Fonts](https://fonts.google.com/ "Link to Google Fonts")
