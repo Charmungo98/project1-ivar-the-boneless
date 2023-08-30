@@ -25,7 +25,7 @@ header {
     font-size: 200%;
     padding: 40px 0px;
     font-weight: 300;
-    color: #99e8e4;
+    color: #FEFBEA;
     background: url("../assets/images/longboat.jpg") center / cover;
 }
 
@@ -53,12 +53,12 @@ body {
     width: 100%;
     padding-top: 10px;
     padding-bottom: 15px;
-    color: #e4f6f8;
+    color: #FEFBEA;
     text-decoration: none;
 }
 
 #navbar a:hover {
-    background-color: #ffffff;
+    background-color: #FEFBEA;
     color: #317773;
 
 }
@@ -69,7 +69,7 @@ body {
     flex: 1;
     display: inline-block;
     padding-top: 2%;
-    background-color: #e4f6f8;
+    background-color: #FEFBEA;
     width: 50%;
 }
 
@@ -112,7 +112,7 @@ body {
     text-decoration: underline;
     margin-bottom: 5px;
     font-weight: 900;
-    color: #e4f6f8;
+    color: #FEFBEA;
 }
 
 .right-text-content p {
@@ -180,7 +180,7 @@ body {
 article {
     float: right;
     max-width: 66.66%;
-    background-color: #e4f6f8;
+    background-color: #FEFBEA;
     height: 840px;
     padding-top: 35px;
 }
@@ -189,12 +189,14 @@ article h2 {
     font-size: 100%;
     text-decoration: underline;
     text-align: center;
+    font-weight: 900;
 }
 
 article p {
-    font-size: 75%;
+    font-size: 90%;
     padding: 10px 25px 15px;
     line-height: 25px;
+    font-weight: 500;
     text-align: justify;
 }
 
@@ -275,7 +277,7 @@ section h2 {
     width: 25%;
     height: 400px;
     max-height: 400px;
-    background-color: #99e8e4;
+    background-color: #FEFBEA;
 }
 
 #wikipedia {
