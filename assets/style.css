@@ -82,7 +82,7 @@ body {
 }
 
 .left-text-content p {
-    line-height: 20px;
+    line-height: 25px;
     margin: auto 5%;
     text-align: justify;
     font-weight: 600;
@@ -116,7 +116,7 @@ body {
 }
 
 .right-text-content p {
-    line-height: 20px;
+    line-height: 25px;
     margin: auto 5%;
     text-align: justify;
     font-weight: 600;
@@ -224,7 +224,7 @@ section::after {
     height: 450px;
 }
 
-section form div h2 {
+section h2 {
     text-decoration: underline;
     text-align: center;
 }
