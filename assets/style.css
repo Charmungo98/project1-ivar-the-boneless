@@ -237,7 +237,7 @@ section h2 {
     width: 25%;
     text-align: left;
     background-color: #e4f6f8;
-    max-height: 400px;
+    height: 600px;
 }
 
 #form-section h2 {
@@ -275,8 +275,7 @@ section h2 {
 #find-out-more {
     display: inline-block;
     width: 25%;
-    height: 400px;
-    max-height: 400px;
+    height: 600px;
     background-color: #FEFBEA;
 }
 
@@ -284,7 +283,7 @@ section h2 {
     display: inline-block;
     float: right;
     width: 50%;
-    height: 400px;
+    height: 600px;
 }
 
 #wikipedia iframe {
@@ -294,4 +293,11 @@ section h2 {
 
 #wikipedia h2 {
     text-align: center;
+}
+
+textarea {
+    margin: 15px 0px;
+    border: solid black 1px;
+    height: 150px;
+    width: 300px;
 }

@@ -23,20 +23,19 @@
         </li>
       </ul>
     </nav>
-    
-    <section id="solar-voyager"></section>
 
+    <section id="solar-voyager"></section>
 
     <section id="form-section">
       <form action="" method="POST">
         <div>
-            <h2>Contact Us</h2>
+          <h2>Contact Us</h2>
           <label for="fname">First Name</label>
           <input
             class="form-input"
-            id="fname"
             type="text"
             name="first_name"
+            placeholder="Joe"
             required
           />
         </div>
@@ -44,9 +43,9 @@
           <label for="lname">Last Name</label>
           <input
             class="form-input"
-            id="lname"
             type="text"
             name="last_name"
+            placeholder="Bloggs"
             required
           />
         </div>
@@ -57,14 +56,13 @@
             id="email"
             type="email"
             name="email_address"
-            required
+            placeholder="joe-bloggs@example.com"
           />
         </div>
         <div id="find-us">
           <p>How did you find us?</p>
           <div>
             <input
-              id="social-media"
               type="checkbox"
               name="social-media"
               value="social-media"
@@ -74,7 +72,6 @@
           </div>
           <div>
             <input
-              id="web-search"
               type="checkbox"
               name="web-search"
               value="web-search"
@@ -82,8 +79,14 @@
             <label for="web-search">Web search</label>
           </div>
           <div>
-            <input id="other" type="checkbox" name="other" value="other" />
-            <label for="other">other</label>
+            <input 
+            type="checkbox" 
+            name="newsletter" 
+            value="newsletter" />
+            <label for="newsletter">Newsletter</label>
+          </div>
+          <div>
+            <textarea placeholder="Please provide any questions or feedback here."></textarea>
           </div>
         </div>
         <input class="book-button" type="submit" value="Submit" />
@@ -91,69 +94,75 @@
     </section>
 
     <section id="find-out-more">
-        <h2>
-            Find out more
-        </h2>
-        <p>
-            Find out more by visiting <a href="https://en.wikipedia.org/wiki/Ivar_the_Boneless" target="_blank">Ivar's wikiedia page</a> or scrolling through the search window to the right of this text.
-        </p>
+      <h2>Find out more</h2>
+      <p>
+        Find out more by visiting
+        <a
+          href="https://en.wikipedia.org/wiki/Ivar_the_Boneless"
+          target="_blank"
+          >Ivar's wikiedia page</a
+        >
+        or scrolling through the search window to the right of this text.
+      </p>
     </section>
 
     <div id="wikipedia">
-        <iframe
-            src="https://en.wikipedia.org/wiki/Ivar_the_Boneless"
-            allowfullscreen="" loading="lazy"></iframe>
+      <iframe
+        src="https://en.wikipedia.org/wiki/Ivar_the_Boneless"
+        allowfullscreen=""
+        loading="lazy"
+      ></iframe>
     </div>
 
     <div>
-    <footer class="footer">
-      <div>
-        <ul class="social-icons">
-          <li>
-            <a
-              href="https://instagram.com"
-              target="_blank"
-              rel="noopener"
-              aria-label="Visit our Instagram page (opens on a new tab)"
-              ><i class="fab fa-instagram"></i
-              ><img
-                class="social-logo-img"
-                src="assets/logos/insta.png"
-                alt="instagram logo"
-            /></a>
-          </li>
-          <li>
-            <a
-              href="https://facebook.com"
-              target="_blank"
-              rel="noopener"
-              aria-label="Visit our Facebook page (opens on a new tab)"
-              ><i class="fab fa-facebook"></i
-              ><img
-                id="facebook-logo-img"
-                src="assets/logos/facebook.png"
-                alt="facebook logo"
-            /></a>
-          </li>
-          <li>
-            <a
-              href="https://twitter.com"
-              target="_blank"
-              rel="noopener"
-              aria-label="Visit our Twitter page (opens on a new tab)"
-              ><i class="fab fa-twitter-square"></i
-              ><img
-                class="social-logo-img"
-                src="assets/logos/twitter.png"
-                alt="twitter logo"
-            /></a>
-          </li>
-        <li>
-            <p>Find us on our social media</p>
-        </li>
-        </ul>
-      </div>
-    </footer>
-</div>
+      <footer class="footer">
+        <div>
+          <ul class="social-icons">
+            <li>
+              <a
+                href="https://instagram.com"
+                target="_blank"
+                rel="noopener"
+                aria-label="Visit our Instagram page (opens on a new tab)"
+                ><i class="fab fa-instagram"></i
+                ><img
+                  class="social-logo-img"
+                  src="assets/logos/insta.png"
+                  alt="instagram logo"
+              /></a>
+            </li>
+            <li>
+              <a
+                href="https://facebook.com"
+                target="_blank"
+                rel="noopener"
+                aria-label="Visit our Facebook page (opens on a new tab)"
+                ><i class="fab fa-facebook"></i
+                ><img
+                  id="facebook-logo-img"
+                  src="assets/logos/facebook.png"
+                  alt="facebook logo"
+              /></a>
+            </li>
+            <li>
+              <a
+                href="https://twitter.com"
+                target="_blank"
+                rel="noopener"
+                aria-label="Visit our Twitter page (opens on a new tab)"
+                ><i class="fab fa-twitter-square"></i
+                ><img
+                  class="social-logo-img"
+                  src="assets/logos/twitter.png"
+                  alt="twitter logo"
+              /></a>
+            </li>
+            <li>
+              <p>Find us on our social media</p>
+            </li>
+          </ul>
+        </div>
+      </footer>
+    </div>
   </body>
 </html>
