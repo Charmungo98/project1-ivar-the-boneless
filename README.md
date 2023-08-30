@@ -6,6 +6,7 @@ The website fictional website designed to educate its viewers on the timeline of
 Visit the deployed website [here].
 
 1. User Experience (UX)
+<<<<<<< HEAD
 
 ### 1.1. User Stories
 
@@ -40,6 +41,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 [Balsamiq](https://balsamiq.com/) has been used to showcase the appearance of the site and display the placement of the different elements whitin the pages.
 
 2. Features
+
 3. Technologies Used
    
 * [Google Fonts](https://fonts.google.com/ "Link to Google Fonts")
@@ -60,6 +62,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
   - W3C CSS Validator was used to validate the CSS code.
 
-1. Testing
-2. Deployment
-3. Credits
+4. Testing
+   
+5. Deployment
+6. Credits
