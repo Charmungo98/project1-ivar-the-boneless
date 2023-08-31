@@ -54,7 +54,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - Header
 
-![Header-image] (assets/readme-images/header.png)
+![Header-image](assets/readme-images/header.png)
 
     - The header contains a nuetral background image and a responsive navigation bar positioned across the top of the screen.
 
@@ -62,13 +62,13 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - Footer
 
-![Header-image] (assets/readme-images/footer.png)
+![Header-image](assets/readme-images/footer.png)
 
     - The footer includes a smaller version of the logo and link to the business social media channels.
 
 ### Home Page
 
-![home-page-image] (assets/readme-images/home-page.png)
+![home-page-image](assets/readme-images/home-page.png)
 
 - Images
 
@@ -82,7 +82,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - Ivar the Boneless
 
-![ivar-article-image] (assets/readme-images/ivar-article.png)
+![ivar-article-image](assets/readme-images/ivar-article.png)
 
     - The article page demonstrates a breif but detailed timeline of Ivar the boneless life and qualities, it is designed to keep the information compact and easy to understand to ensure its readers attention is kept.
 
@@ -92,13 +92,13 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - Contact Form
 
-![feedback-form-image] (assets/readme-images/contact-form.png)
+![feedback-form-image](assets/readme-images/contact-form.png)
 
     - The form allows the viewers to provide feedback and ask questions directly from the website.
 
 - About Us section
 
-![find-out-more-image] (assets/readme-images/find-out-more.png)
+![find-out-more-image](assets/readme-images/find-out-more.png)
 
     - The about us section allows the user to learn a bit more about the developer/author and directs the viewer to the social media links in the footer.
 
@@ -150,25 +150,25 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - As a customer, I want to find further information on the webiite's topics, this cna be found by a link to the wikipedia page on the contact page.
 
-### Code Validation /**\*** THIS ONE \*\*\*\*/
+### Code Validation 
 
-![index-html-validator] (assets/readme-images/index-html)
+![index-html-validator](assets/readme-images/index-html)
 
-![contact-html-validator] (assets/readmeme-images/contact-html)
+![contact-html-validator](assets/readmeme-images/contact-html)
 
-![ivar-html-validato] (assets/readmeme-images/ivar-html)
+![ivar-html-validato](assets/readmeme-images/ivar-html)
 
 - The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) services were used to validate all pages of the project in order to ensure there were no syntax errors.
 
   - W3C Markup Validator found an error concerning headings not being included on the main and book now images. The section tag was replaced for a div tag to correct this.
 
-![css-validator] (assets/readme-images/css-check)
+![css-validator](assets/readme-images/css-check)
 
 - W3C CSS Validator found no errors or warnings on my CSS.
 
 - I did discover a slight bug that the prettier sofware cause, certain self closing elements contained a trailing salsh that could not be removed, it does not effec the code but an example of the info warning from W3C validator can be sene below.
 
-![prettier-bug] (assets/readme-images/prettier-bug)
+![prettier-bug](assets/readme-images/prettier-bug)
 
 ### Testing Using Tools
 
@@ -272,15 +272,15 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - Home Page
 
-  * ![ligthouse-home-page] (assets/readme-images/lighthouse-home.png)
+  * ![ligthouse-home-page](assets/readme-images/lighthouse-home.png)
 
 - Ivar Page
 
-  * ![ligthouse-ivar-page] (assets/readme-images/lighthouse-ivar.png)
+  * ![ligthouse-ivar-page](assets/readme-images/lighthouse-ivar.png)
 
 - Contact Page
 
-  * ![ligthouse-contact-page] (assets/readme-images/lighthouse-contact.png)
+  * ![ligthouse-contact-page](assets/readme-images/lighthouse-contact.png)
 
 # 5. Finished Product
    
