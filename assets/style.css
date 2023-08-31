@@ -272,7 +272,7 @@ textarea {
     width: 300px;
 }
 
-.book-button {
+.submit-button {
     position: relative;
     display: block;
     width: fit-content;
@@ -282,7 +282,7 @@ textarea {
     border: solid black 2px;
 }
 
-.book-button:hover {
+.submit-button:hover {
     background-color: #e4f6f8;
 }
 
