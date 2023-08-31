@@ -236,7 +236,7 @@ section h2 {
     width: 50%;
     text-align: left;
     background-color: #e4f6f8;
-    height: 600px;
+    height: 550px;
 }
 
 #form-section h2 {
@@ -284,9 +284,10 @@ textarea {
     display: block;
     float: right;
     width: 50%;
+    height: 100%;
     text-align: center;
     background-color: #FEFBEA;
-    height: 600px;
+    height: 550px
 }
 
 #find-out-more h2 {
@@ -502,6 +503,10 @@ textarea {
         font-weight: 100;
     }
 
+    #form-section {
+        height: 500px;
+    }
+
     form {
         font-size: 75%;
     }
@@ -512,6 +517,7 @@ textarea {
 
     #find-out-more {
         font-size: 75%;
+        height: 350px
     }
 
     textarea {
