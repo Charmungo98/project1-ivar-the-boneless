@@ -6,7 +6,6 @@ The website fictional website designed to educate its viewers on the timeline of
 Visit the deployed website [here].
 
 1. User Experience (UX)
-<<<<<<< HEAD
 
 ### 1.1. User Stories
 
@@ -114,7 +113,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 * [Am I Responsive?](http://ami.responsivedesign.is/#) 
   - Am I Responsive was used to check responsiveness of the site pages across different devices.
 
-4. Testing
+1. Testing
 
 ### 4.1. Testing User Stories
 
@@ -143,7 +142,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
   * W3C CSS Validator found no errors or warnings on my CSS.
 
-### 4.3. Automated Testing
+### 4.3. Testing Using Tools
 
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
@@ -236,4 +235,46 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
     * The Wikipedia page in the imedia viewfinder is functional and the viewer can scroll through the relevant Wikipedia page directly from the website.
    
 5. Deployment
+
+This website was developed using [Codeanywhere](https://app.codeanywhere.com/), which was then committed and pushed to GitHub using the Codeanywhere terminal.
+
+### 5.1 GitHub Pages
+
+* Here are the steps to deploy this website to GitHub Pages from its GitHub repository:
+
+    1. Log in to GitHub and locate the [GitHub Repository](https://github.com/).
+
+    2. At the top of the Repository, locate the Settings button on the menu.
+
+        - Alternatively click [here](https://raw.githubusercontent.com/) for a GIF demostration of the process.
+
+    3. Scroll down the Settings page until you locate the Pages section.
+
+    4. Under Source, click the dropdown called None and select Main Branch.
+
+    5. The page will refresh automatically and generate a link to your website.
+
 6. Credits
+
+### 6.1. Content
+
+* All content was written by the developer.
+
+### 6.2. Media
+
+* [Pexels](https://www.pexels.com/)
+
+  * Ivar.html image: take by Valiantsin Konan.
+
+* [Pixabay](https://pixabay.com/)
+
+    * Axes image: taken by ValeriiIavtushenko.
+    * Viking drinking image: taken by GioeleFazzeri.
+    * Solo viking warrior wielding sword image: taken by GioeleFazzeri.
+    * Three knights in wood wielding swords image: taken by GioeleFazzeri.
+    * Solar voyer image: taken by Ichigo121212.
+    * Knight on horseback: taken by ha11ok.
+
+### 6.3. Code
+
+* [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
