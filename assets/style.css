@@ -197,7 +197,7 @@ body {
 }
 
 #ivar-article h2 {
-
+    padding-top: 15px;
     text-decoration: underline;
     text-align: center;
     font-weight: 900;
@@ -205,7 +205,7 @@ body {
 }
 
 #ivar-article p {
-    padding: 5px 25px 15px;
+    padding: 5px 25px 0px;
     line-height: 25px;
     font-weight: 500;
     text-align: justify;
@@ -325,6 +325,11 @@ textarea {
 
     #ivar-article {
         font-size: 70%;
+        line-height: 20px;
+    }
+
+    #ivar-article h2 {
+        padding-top: 12px
     }
 
     #form-section {
@@ -346,11 +351,13 @@ textarea {
     .left-text-content {
         position: relative;
         font-size: 65%;
+        line-height: 20px;
     }
 
     .right-text-content {
         position: relative;
         font-size: 65%;
+        line-height: 20px;
     }
 
     #footer-logo {
@@ -374,16 +381,38 @@ textarea {
     .left-text-content {
         position: relative;
         font-size: 50%;
+        line-height: 12px;
     }
 
     .right-text-content {
         position: relative;
         font-size: 50%;
+        line-height: 12px;
     }
 
+        .right-text-content p {
+            line-height: 20px;
+            font-weight: 200;
+        }
+    
+        .left-text-content p {
+            line-height: 20px;
+            font-weight: 200;
+        }
+
     #ivar-article {
-        font-size: 50%;
         flex: 3;
+        height: 100%;
+        font-size: 55%;
+        padding-bottom: 150px;
+    }
+
+    #ivar-article p {
+        line-height: 15px;
+    }
+
+    #ivar-article h2 {
+        padding-top: 8px
     }
 
     #ivar-image {
@@ -418,17 +447,34 @@ textarea {
 
 @media screen and (max-width: 650px) {
     #ivar-article {
-        font-size: 50%;
+        flex: 3;
+        height: 100%;
+        font-size: 40%;
+        padding-bottom: 50px;
+    }
+
+    #ivar-article p {
+        line-height: 10px;
     }
 
     .left-text-content {
         position: relative;
-        font-size: 50%;
+        font-size: 30%;
     }
 
     .right-text-content {
         position: relative;
-        font-size: 50%;
+        font-size: 30%;
+    }
+
+    .right-text-content p {
+        line-height: 10px;
+        font-weight: 100;
+    }
+
+    .left-text-content p {
+        line-height: 10px;
+        font-weight: 100;
     }
 
     #footer-logo {
@@ -441,6 +487,5 @@ textarea {
     #copyright {
         font-size: 60%;
     }
-
-
 }
+
