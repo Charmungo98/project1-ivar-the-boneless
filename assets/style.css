@@ -24,7 +24,7 @@ header {
     padding: 40px 0px;
     font-weight: 300;
     color: #FEFBEA;
-    background: url("../assets/images/longboat.jpg") center / cover;
+    background: url("./images/longboat.jpg") center / cover;
 }
 
 body {
@@ -329,12 +329,17 @@ textarea {
     }
 
     #ivar-article {
+        flex: 3;
         font-size: 70%;
         line-height: 20px;
     }
 
     #ivar-article h2 {
         padding-top: 12px
+    }
+
+    #ivar-image {
+        flex: 2;
     }
 
     #form-section {
