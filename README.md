@@ -54,15 +54,21 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 * Header
 
-    - The header contains a nuetral image background and a responsive navigation bar positioned across the top of the screen.
+![Header-image] (assets/readme-images/header.png)
+
+    - The header contains a nuetral background image and a responsive navigation bar positioned across the top of the screen.
 
     - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color to provide feedback to the customer for a better user experience.
 
 * Footer
 
+![Header-image] (assets/readme-images/footer.png)
+
     - The footer includes a smaller version of the logo and link to the business social media channels.
 
-### 2.2. Landing Page
+### 2.2. Home Page
+
+![home-page-image] (assets/readme-images/home-page.png)
 
 * Images
 
@@ -70,11 +76,13 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 * Timeline content
 
-    - Contains a text with information about the timeline of th eviking raids in England.
+    - Contains alternating text and image blocks with information about the timeline of the viking raids in England.
 
 ### 2.3 Article Page
 
 * Ivar the Boneless
+
+![ivar-article-image] (assets/readme-images/ivar-article.png)
 
     - The article page demonstrates a breif but detailed timeline of Ivar the boneless life and qualities, it is designed to keep the information compact and easy to understand to ensure its readers attention is kept.
 
@@ -83,13 +91,17 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 ### 2.4 Contact Page
 
-* Feedback Form
+* Contact Form
 
-    - The form allows the viewers to provide feedback and acks questions directly from the website.
+![feedback-form-image] (assets/readme-images/contact-form.png)
 
-* Wikipedia section
+    - The form allows the viewers to provide feedback and ask questions directly from the website.
 
-    - This section displays an imedia view of Ivar's wikipedia page, providing a link and allowing the viewer to browse the wikipedia page from the website.
+* About Us section
+
+![find-out-more-image] (assets/readme-images/find-out-more.png)
+
+    - The about us section allows the user to learn a bit more about the developer/author and directs the viewer to the social media links in the footer.
 
 3. Technologies Used
    
@@ -118,7 +130,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 * [Am I Responsive?](http://ami.responsivedesign.is/#) 
   - Am I Responsive was used to check responsiveness of the site pages across different devices.
 
-1. Testing
+4. Testing
 
 ### 4.1. Testing User Stories
 
