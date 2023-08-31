@@ -34,7 +34,7 @@ Visit the deployed website [here](https://charmungo98.github.io/project1-ivar-th
 
 The colors used in the site are two different tones of blue (#317773 and #e4f6f8) and one tone of cream color (#FEFBEA). For the hover effects the two main blue and cream colors (#317773 and #FEFBEA respectively) were used, for all borders surrounding elements, black was used. These colors are chosen to create a dynamic and attractive display that draws in the viewer but does not distract from the content.
 
-![Color Scheme](assets/readme-images/color-scheme.png)
+*![Color Scheme](assets/readme-images/color-scheme.png)
 
 ### Typogrophy
 
@@ -54,7 +54,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - Header
 
-![Header-image](assets/readme-images/header.png)
+* ![Header-image](assets/readme-images/header.png)
 
     - The header contains a nuetral background image and a responsive navigation bar positioned across the top of the screen.
 
@@ -62,13 +62,13 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - Footer
 
-![Header-image](assets/readme-images/footer.png)
+* ![Header-image](assets/readme-images/footer.png)
 
     - The footer includes a smaller version of the logo and link to the business social media channels.
 
 ### Home Page
 
-![home-page-image](assets/readme-images/home-page.png)
+* ![home-page-image](assets/readme-images/home-page.png)
 
 - Images
 
@@ -82,7 +82,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - Ivar the Boneless
 
-![ivar-article-image](assets/readme-images/ivar-article.png)
+* ![ivar-article-image](assets/readme-images/ivar-article.png)
 
     - The article page demonstrates a breif but detailed timeline of Ivar the boneless life and qualities, it is designed to keep the information compact and easy to understand to ensure its readers attention is kept.
 
@@ -92,13 +92,13 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - Contact Form
 
-![feedback-form-image](assets/readme-images/contact-form.png)
+* ![feedback-form-image](assets/readme-images/contact-form.png)
 
     - The form allows the viewers to provide feedback and ask questions directly from the website.
 
 - About Us section
 
-![find-out-more-image](assets/readme-images/find-out-more.png)
+* ![find-out-more-image](assets/readme-images/find-out-more.png)
 
     - The about us section allows the user to learn a bit more about the developer/author and directs the viewer to the social media links in the footer.
 
@@ -152,17 +152,17 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 ### Code Validation 
 
-![index-html-validator](assets/readme-images/index-html)
+* ![index-html-validator](assets/readme-images/index-html)
 
-![contact-html-validator](assets/readmeme-images/contact-html)
+* ![contact-html-validator](assets/readmeme-images/contact-html)
 
-![ivar-html-validato](assets/readmeme-images/ivar-html)
+* ![ivar-html-validator](assets/readmeme-images/ivar-html)
 
 - The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) services were used to validate all pages of the project in order to ensure there were no syntax errors.
 
   - W3C Markup Validator found an error concerning headings not being included on the main and book now images. The section tag was replaced for a div tag to correct this.
 
-![css-validator](assets/readme-images/css-check)
+* ![css-validator](assets/readme-images/css-check)
 
 - W3C CSS Validator found no errors or warnings on my CSS.
 
