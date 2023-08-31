@@ -104,6 +104,12 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 # 3. Technologies Used
 
+### Languages
+
+- HTML5 and CSS3 were used throughout the project.
+
+### Programs Used
+
 - [Google Fonts](https://fonts.google.com/ "Link to Google Fonts")
   - Google Fonts was used to import the fonts Raleway, Cabin and Qahiri into the style.css file. These fonts were used throughout the site.
 - [Codeanywhere](https://app.codeanywhere.com/ "Link to Codeanywhere")
@@ -321,6 +327,7 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
 - [Pexels](https://www.pexels.com/)
 
   - Ivar.html image: take by Valiantsin Konan.
+  - Longboat image: Valiantsin Konan.
 
 - [Pixabay](https://pixabay.com/)
 
@@ -331,12 +338,12 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
   - Solar voyer image: taken by Ichigo121212.
   - Knight on horseback: taken by ha11ok.
 
-- [IconFinder] (https://www.iconfinder.com/)
+- [IconFinder](https://www.iconfinder.com/)
   - Facebook logo: Picons.me
-  - Ingstagram logo: Iconfinder
+  - Instagram logo: Iconfinder
   - Twitter Logo: Iconfinder
   - Mail logo: Feather Icons
-  - Viking logo: https://icons8.com/icons/set/viking
+  - Favicon logo: https://icons8.com/icons/set/viking
 
 ### Code
 
