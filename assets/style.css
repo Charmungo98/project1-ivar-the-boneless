@@ -315,7 +315,6 @@ textarea {
 }
 
 @media screen and (max-width: 1250px) {
-
     #navbar li {
         width: 100%;
     }
@@ -363,6 +362,11 @@ textarea {
 
     #copyright {
         font-size: 80%;
+        padding-top: 125px;
+    }
+
+    .footer {
+        height: 160px;
     }
 }
 
@@ -392,7 +396,51 @@ textarea {
         padding-top: 40px;
     }
 
+    .social-logo-img {
+        height: 40px;
+        width: 40px;
+    }
+
+    #facebook-logo-img {
+        width: 45px;
+        height: 45px;
+    }
+
     #copyright {
         font-size: 65%;
+        padding-top: 100px;
     }
+
+    .footer {
+        height: 140px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    #ivar-article {
+        font-size: 50%;
+    }
+
+    .left-text-content {
+        position: relative;
+        font-size: 50%;
+    }
+
+    .right-text-content {
+        position: relative;
+        font-size: 50%;
+    }
+
+    #footer-logo {
+        height: 80px;
+        width: 80px;
+        padding-top: 20px;
+
+    }
+
+    #copyright {
+        font-size: 60%;
+    }
+
+
 }
