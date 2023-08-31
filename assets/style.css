@@ -315,7 +315,7 @@ textarea {
         position: relative;
         font-size: 85%;
     }
-
+}
 
 @media screen and (max-width: 1250px) {
 
@@ -324,12 +324,12 @@ textarea {
         overflow: hidden;
     }
 
-    #about-us {
+    #find-us {
         width: 100%;
     }
 
     #ivar-article {
-        font-size: 60%;
+        font-size: 70%;
     }
 
     #form-section {
@@ -359,3 +359,4 @@ textarea {
     }
 }
 
+@media screen and (max-width: 1000px) {
