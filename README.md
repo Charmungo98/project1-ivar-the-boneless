@@ -331,6 +331,7 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
     * Ingstagram logo: Iconfinder
     * Twitter Logo: Iconfinder
     * Mail logo: Feather Icons
+    * Viking logo: https://icons8.com/icons/set/viking
 
 ### 6.3. Code
 
