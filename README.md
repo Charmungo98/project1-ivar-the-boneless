@@ -152,21 +152,27 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 ### Code Validation 
 
+- The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) services were used to validate all pages of the project in order to ensure there were no syntax errors.
+  
+- Index Page
+
 ![index-html-validator](assets/readme-images/index-html.png)
 
-![contact-html-validator](assets/readme-images/contact-html.png)
+- Ivar Page
 
 ![ivar-html-validator](assets/readme-images/ivar-html.png)
 
-- The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) services were used to validate all pages of the project in order to ensure there were no syntax errors.
+- Contact Page
 
-  - W3C Markup Validator found an error concerning headings not being included on the main and book now images. The section tag was replaced for a div tag to correct this.
+![contact-html-validator](assets/readme-images/contact-html.png)
+
+- W3C markup validator found no errors on my HTML.
 
 ![css-validator](assets/readme-images/css-check.png)
 
 - W3C CSS Validator found no errors or warnings on my CSS.
 
-- I did discover a slight bug that the prettier sofware cause, certain self closing elements contained a trailing salsh that could not be removed, it does not effec the code but an example of the info warning from W3C validator can be sene below.
+- I did discover a slight bug that the prettier sofware cause, certain self closing elements contained a trailing salsh that could not be removed, it does not effec the code but an example of the info warning from W3C validator can be seen below.
 
 ![prettier-bug](assets/readme-images/prettier-bug)
 
