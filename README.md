@@ -174,7 +174,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - I did discover a slight bug that the prettier sofware cause, certain self closing elements contained a trailing salsh that could not be removed, it does not effec the code but an example of the info warning from W3C validator can be seen below.
 
-![prettier-bug](assets/readme-images/prettier-bug)
+![prettier-bug](assets/readme-images/prettier-bug.png)
 
 ### Testing Using Tools
 
