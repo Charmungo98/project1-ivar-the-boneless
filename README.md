@@ -8,7 +8,7 @@ The website fictional website designed to educate its viewers on the timeline of
 
 Visit the deployed website [here](https://charmungo98.github.io/project1-ivar-the-boneless/).
 
-1. User Experience (UX)
+# 1. User Experience (UX)
 
 ### 1.1. User Stories
 
@@ -44,7 +44,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 [Balsamiq](https://balsamiq.com/) has been used to showcase the appearance of the site and display the placement of the different elements whitin the pages.
 
-2. Features
+# 2. Features
 
 ### 2.1. General
 
@@ -102,7 +102,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
     - The about us section allows the user to learn a bit more about the developer/author and directs the viewer to the social media links in the footer.
 
-3. Technologies Used
+# 3. Technologies Used
 
 - [Google Fonts](https://fonts.google.com/ "Link to Google Fonts")
   - Google Fonts was used to import the fonts Raleway, Cabin and Qahiri into the style.css file. These fonts were used throughout the site.
@@ -130,7 +130,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
   - Chrome DevTools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project.
 
-4. Testing
+# 4. Testing
 
 ### 4.1. Testing User Stories
 
@@ -282,8 +282,9 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
   - ![ligthouse-contact-page] (assets/readme-images/lighthouse-contact.png)
 
-5. Finished Product
-6. Deployment
+# 5. Finished Product
+   
+# 6. Deployment
 
 This website was developed using [Codeanywhere](https://app.codeanywhere.com/), which was then committed and pushed to GitHub using the Codeanywhere terminal.
 
@@ -303,7 +304,7 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
 
   5. The page will refresh automatically and generate a link to your website.
 
-7. Credits
+# 7. Credits
 
 ### 7.1. Content
 
@@ -335,7 +336,7 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
 
 - [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
 
-8. Acknowledgements
+# 8. Acknowledgements
 
 - My friends, for their constructive and honest criticism.
 
