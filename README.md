@@ -6,7 +6,7 @@ This project website is dedicated to Ivar the Boneless. Ivar the Boneless is a h
 
 The website fictional website designed to educate its viewers on the timeline of the Viking invasion of England and Ivar the Boneless himself, it is purely educational in purpose and does not try to sell its viewers any form of product.
 
-Visit the deployed website [here].
+Visit the deployed website [here](https://charmungo98.github.io/project1-ivar-the-boneless/).
 
 1. User Experience (UX)
 
@@ -116,6 +116,9 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 * [Responsive Design Checker](https://www.responsivedesignchecker.com/)
     - Responsive Design Checker was used in the testing process to check responsiveness on various devices.
+  
+* [Am I Responsive?](http://ami.responsivedesign.is/#) 
+  - Am I Responsive was used to check responsiveness of the site pages across different devices
 
 * [W3C Markup Validator](https://validator.w3.org/)
   - W3C Markup Validator was used to validate the HTML code.
@@ -124,11 +127,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
   - W3C CSS Validator was used to validate the CSS code.
 
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
-
   - Chrome DevTools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project.
-
-* [Am I Responsive?](http://ami.responsivedesign.is/#) 
-  - Am I Responsive was used to check responsiveness of the site pages across different devices.
 
 4. Testing
 
@@ -151,13 +150,25 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 * As a customer, I want to find further information on the webiite's topics, this cna be found by a link to the wikipedia page on the contact page.
 
-### 4.2. Code Validation
+### 4.2. Code Validation  /***** THIS ONE ****/
+
+![index-html-validator] (assets/readme-images/index-html)
+
+![contact-html-validator] (assets/readmeme-images/contact-html)
+
+![ivar-html-validato] (assets/readmeme-images/ivar-html)
 
 * The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) services were used to validate all pages of the project in order to ensure there were no syntax errors.
 
   * W3C Markup Validator found an error concerning headings not being included on the main and book now images. The section tag was replaced for a div tag to correct this.
 
+![css-validator] (assets/readme-images/css-check)
+
   * W3C CSS Validator found no errors or warnings on my CSS.
+
+  * I did discover a slight bug that the prettier sofware cause, certain self closing elements contained a trailing salsh that could not be removed, it does not effec the code but an example of the info warning from W3C validator can be sene below.
+
+![prettier-bug] (assets/readme-images/prettier-bug)
 
 ### 4.3. Testing Using Tools
 
@@ -201,7 +212,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
   * The website has been tested on multiple devices, including:
 
-    * **MacBook Pro 15"**
+    * **MacBook Air**
 
         No appearance, responsiveness nor functionality issues.
 
@@ -213,7 +224,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
         No appearance, responsiveness nor functionality issues.
 
-    * **iPad Pro 10.5"**
+    * **iPad Mini"**
 
         No appearance, responsiveness nor functionality issues.
 
@@ -222,6 +233,10 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
         No appearance, responsiveness nor functionality issues.
 
     * **iPhone XR**
+
+        No appearance, responsiveness nor functionality issues.
+
+    * **Iphone SE**
 
         No appearance, responsiveness nor functionality issues.
 
@@ -250,8 +265,27 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
     * Clicking on the link to the Wikipedia page will direct the viewer to the relevant Wikipedia page.
 
     * The Wikipedia page in the imedia viewfinder is functional and the viewer can scroll through the relevant Wikipedia page directly from the website.
+
+### 4.5. Accessability
+
+  * I used Lighthouse in Chrome Developer Tools to confirm that the colors and fonts being used in throughout the website are easy to read and accessible.
+
+  * Home Page
+  
+    *  ![ligthouse-home-page] (assets/readme-images/lighthouse-home.png)
+
+  * Ivar Page
+
+    *  ![ligthouse-ivar-page] (assets/readme-images/lighthouse-ivar.png)
+
+  * Contact Page
+
+    *  ![ligthouse-contact-page] (assets/readme-images/lighthouse-contact.png)
+
+
+5. Finished Product
    
-5. Deployment
+6. Deployment
 
 This website was developed using [Codeanywhere](https://app.codeanywhere.com/), which was then committed and pushed to GitHub using the Codeanywhere terminal.
 
@@ -271,7 +305,7 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
 
     5. The page will refresh automatically and generate a link to your website.
 
-6. Credits
+7. Credits
 
 ### 6.1. Content
 
@@ -291,6 +325,12 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
     * Three knights in wood wielding swords image: taken by GioeleFazzeri.
     * Solar voyer image: taken by Ichigo121212.
     * Knight on horseback: taken by ha11ok.
+  
+* [IconFinder] (https://www.iconfinder.com/)
+    * Facebook logo: Picons.me
+    * Ingstagram logo: Iconfinder
+    * Twitter Logo: Iconfinder
+    * Mail logo: Feather Icons
 
 ### 6.3. Code
 
