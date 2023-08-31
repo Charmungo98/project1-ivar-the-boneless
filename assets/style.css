@@ -390,15 +390,15 @@ textarea {
         line-height: 12px;
     }
 
-        .right-text-content p {
-            line-height: 20px;
-            font-weight: 200;
-        }
-    
-        .left-text-content p {
-            line-height: 20px;
-            font-weight: 200;
-        }
+    .right-text-content p {
+        line-height: 20px;
+        font-weight: 200;
+    }
+
+    .left-text-content p {
+        line-height: 20px;
+        font-weight: 200;
+    }
 
     #ivar-article {
         flex: 3;
@@ -487,5 +487,76 @@ textarea {
     #copyright {
         font-size: 60%;
     }
+
+    .social-logo-img {
+        height: 35px;
+        width: 35px;
+    }
+
+    #facebook-logo-img {
+        width: 40px;
+        height: 40px;
+    }
+
+        .footer {
+            height: 120px;
+        }
 }
 
+@media screen and (max-width: 500px) {
+    #ivar-article {
+        flex: 3;
+        height: 100%;
+        font-size: 30%;
+        padding-bottom: 50px;
+    }
+
+    #ivar-article p {
+        line-height: 5px;
+    }
+
+    .left-text-content {
+        position: relative;
+        font-size: 20%;
+    }
+
+    .right-text-content {
+        position: relative;
+        font-size: 20%;
+    }
+
+    .right-text-content p {
+        line-height: 10px;
+        font-weight: 0;
+    }
+
+    .left-text-content p {
+        line-height: 10px;
+        font-weight: 0;
+    }
+
+    #footer-logo {
+        height: 50px;
+        width: 50px;
+        padding-top: 20px;
+
+    }
+
+    #copyright {
+        font-size: 40%;
+    }
+
+    .social-logo-img {
+        height: 30px;
+        width: 30px;
+    }
+
+    #facebook-logo-img {
+        width: 35px;
+        height: 35px;
+    }
+
+    .footer {
+        height: 100px;
+    }
+}
