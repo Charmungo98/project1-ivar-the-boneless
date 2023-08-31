@@ -1,4 +1,7 @@
 #   Ivar the Boneless
+
+![Ivar the Boneless](assets/readme-images/snippit-of-website.png)
+
 This project website is dedicated to Ivar the Boneless. Ivar the Boneless is a historical figure within the heart of the Viking era of England, he was an influential figure that contributed greatly to the conquering of the north of England by the Vikings.
 
 The website fictional website designed to educate its viewers on the timeline of the Viking invasion of England and Ivar the Boneless himself, it is purely educational in purpose and does not try to sell its viewers any form of product.
@@ -31,7 +34,9 @@ Visit the deployed website [here].
 
 The colors used in the site are two different tones of blue (#317773 and #e4f6f8) and one tone of cream color (#FEFBEA). For the hover effects the two main blue and cream colors (#317773 and #FEFBEA respectively) were used, for all borders surrounding elements, black was used. These colors are chosen to create a dynamic and attractive display that draws in the viewer but does not distract from the content.
 
-### 1.3. Typography
+![Color Scheme](assets/readme-images/color-scheme.png)
+
+### 1.3. Typogrophy
 
 The main font being used in the site is Lugarismoy. Roboto is being used for the navbar, all H2 elements and footer elements, Roboto is also the main font used on the contact page.
 
