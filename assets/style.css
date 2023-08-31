@@ -315,6 +315,10 @@ textarea {
 }
 
 @media screen and (max-width: 1250px) {
+    header {
+        font-size: 170%;
+    }
+
     #navbar li {
         width: 100%;
     }
@@ -378,6 +382,14 @@ textarea {
 }
 
 @media screen and (max-width: 1000px) {
+    header {
+        font-size: 140%;
+    }
+
+    #navbar a {
+        font-size: 100%;
+    }
+
     .left-text-content {
         position: relative;
         font-size: 50%;
@@ -446,6 +458,14 @@ textarea {
 }
 
 @media screen and (max-width: 650px) {
+    header {
+        font-size: 80%;
+    }
+
+    #navbar a {
+        font-size: 70%;
+    }
+
     #ivar-article {
         flex: 3;
         height: 100%;
@@ -477,6 +497,23 @@ textarea {
         font-weight: 100;
     }
 
+    form {
+        font-size: 75%;
+    }
+
+    form h2 {
+        font-size: 80%;
+    }
+
+    #find-out-more {
+        font-size: 75%;
+    }
+
+    textarea {
+        width: 250px;
+        height: 125px;
+    }
+
     #footer-logo {
         height: 80px;
         width: 80px;
@@ -486,6 +523,7 @@ textarea {
 
     #copyright {
         font-size: 60%;
+        padding-top: 90px;
     }
 
     .social-logo-img {
@@ -498,12 +536,20 @@ textarea {
         height: 40px;
     }
 
-        .footer {
-            height: 120px;
-        }
+    .footer {
+        height: 120px;
+    }
 }
 
 @media screen and (max-width: 500px) {
+    header {
+        font-size: 60%;
+    }
+
+    #navbar a {
+        font-size: 60%;
+    }
+
     #ivar-article {
         flex: 3;
         height: 100%;
@@ -513,6 +559,10 @@ textarea {
 
     #ivar-article p {
         line-height: 5px;
+    }
+
+    #ivar-image {
+        display: none;
     }
 
     .left-text-content {
@@ -535,6 +585,23 @@ textarea {
         font-weight: 0;
     }
 
+    form {
+        font-size: 60%;
+    }
+
+    form h2 {
+        font-size: 65%;
+    }
+
+    #find-out-more {
+        font-size: 60%;
+    }
+
+    textarea {
+        width: 200px;
+        height: 100px;
+    }
+
     #footer-logo {
         height: 50px;
         width: 50px;
@@ -544,6 +611,7 @@ textarea {
 
     #copyright {
         font-size: 40%;
+        padding-top: 70px;
     }
 
     .social-logo-img {
