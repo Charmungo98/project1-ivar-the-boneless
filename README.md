@@ -272,15 +272,15 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - Home Page
 
-  - ![ligthouse-home-page] (assets/readme-images/lighthouse-home.png)
+  * ![ligthouse-home-page] (assets/readme-images/lighthouse-home.png)
 
 - Ivar Page
 
-  - ![ligthouse-ivar-page] (assets/readme-images/lighthouse-ivar.png)
+  * ![ligthouse-ivar-page] (assets/readme-images/lighthouse-ivar.png)
 
 - Contact Page
 
-  - ![ligthouse-contact-page] (assets/readme-images/lighthouse-contact.png)
+  * ![ligthouse-contact-page] (assets/readme-images/lighthouse-contact.png)
 
 # 5. Finished Product
    
