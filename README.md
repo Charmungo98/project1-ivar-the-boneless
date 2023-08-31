@@ -10,7 +10,7 @@ Visit the deployed website [here](https://charmungo98.github.io/project1-ivar-th
 
 # 1. User Experience (UX)
 
-### 1.1. User Stories
+### User Stories
 
 - As an informational website, I want the website to have a dynamic and clear design that is easy to navigate.
 
@@ -30,23 +30,23 @@ Visit the deployed website [here](https://charmungo98.github.io/project1-ivar-th
 
 - As a viewer, I want to easily find links to further information on the topic in external locations that may add to my knowledge of the subject, such as wikipedia.
 
-### 1.2. Color Scheme
+### Color Scheme
 
 The colors used in the site are two different tones of blue (#317773 and #e4f6f8) and one tone of cream color (#FEFBEA). For the hover effects the two main blue and cream colors (#317773 and #FEFBEA respectively) were used, for all borders surrounding elements, black was used. These colors are chosen to create a dynamic and attractive display that draws in the viewer but does not distract from the content.
 
 ![Color Scheme](assets/readme-images/color-scheme.png)
 
-### 1.3. Typogrophy
+### Typogrophy
 
 The main font being used in the site is Lugarismoy. Roboto is being used for the navbar, all H2 elements and footer elements, Roboto is also the main font used on the contact page.
 
-### 1.4. Wireframes
+### Wireframes
 
 [Balsamiq](https://balsamiq.com/) has been used to showcase the appearance of the site and display the placement of the different elements whitin the pages.
 
 # 2. Features
 
-### 2.1. General
+### General
 
 - Responsive design across all device sizes.
 
@@ -66,7 +66,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
     - The footer includes a smaller version of the logo and link to the business social media channels.
 
-### 2.2. Home Page
+### Home Page
 
 ![home-page-image] (assets/readme-images/home-page.png)
 
@@ -78,7 +78,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
   - Contains alternating text and image blocks with information about the timeline of the viking raids in England.
 
-### 2.3 Article Page
+### Article Page
 
 - Ivar the Boneless
 
@@ -88,7 +88,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
     - An image of Ivar is displayed next to the article to provide a more dynamic article layout.
 
-### 2.4 Contact Page
+### Contact Page
 
 - Contact Form
 
@@ -132,7 +132,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 # 4. Testing
 
-### 4.1. Testing User Stories
+### Testing User Stories
 
 - As a viewer I want to be able to navigate the website smoothly and further my lnowledge on the subject being displayed.
 
@@ -150,7 +150,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - As a customer, I want to find further information on the webiite's topics, this cna be found by a link to the wikipedia page on the contact page.
 
-### 4.2. Code Validation /**\*** THIS ONE \*\*\*\*/
+### Code Validation /**\*** THIS ONE \*\*\*\*/
 
 ![index-html-validator] (assets/readme-images/index-html)
 
@@ -170,7 +170,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 ![prettier-bug] (assets/readme-images/prettier-bug)
 
-### 4.3. Testing Using Tools
+### Testing Using Tools
 
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
@@ -184,7 +184,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
   - Chrome DevTools was used to test responsiveness in different screen sizes during the development process.
 
-### 4.4. Manual Testing
+### Manual Testing
 
 - Browser Compatibility
 
@@ -266,7 +266,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
     - The Wikipedia page in the imedia viewfinder is functional and the viewer can scroll through the relevant Wikipedia page directly from the website.
 
-### 4.5. Accessability
+### Accessability
 
 - I used Lighthouse in Chrome Developer Tools to confirm that the colors and fonts being used in throughout the website are easy to read and accessible.
 
@@ -288,7 +288,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 This website was developed using [Codeanywhere](https://app.codeanywhere.com/), which was then committed and pushed to GitHub using the Codeanywhere terminal.
 
-### 6.1 GitHub Pages
+### GitHub Pages
 
 - Here are the steps to deploy this website to GitHub Pages from its GitHub repository:
 
@@ -306,11 +306,11 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
 
 # 7. Credits
 
-### 7.1. Content
+### Content
 
 - All content was written by the developer.
 
-### 7.2. Media
+### Media
 
 - [Pexels](https://www.pexels.com/)
 
@@ -332,7 +332,7 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
   - Mail logo: Feather Icons
   - Viking logo: https://icons8.com/icons/set/viking
 
-### 7.3. Code
+### Code
 
 - [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
 
