@@ -469,12 +469,17 @@ textarea {
     #ivar-article {
         flex: 3;
         height: 100%;
-        font-size: 40%;
-        padding-bottom: 50px;
+        font-size: 50%;
+        padding-bottom: 150px;
     }
 
     #ivar-article p {
         line-height: 10px;
+        font-weight: 100;
+    }
+
+    #ivar-image {
+        display: none;
     }
 
     .left-text-content {
@@ -553,12 +558,12 @@ textarea {
     #ivar-article {
         flex: 3;
         height: 100%;
-        font-size: 30%;
-        padding-bottom: 50px;
+        font-size: 40%;
+        padding-bottom: 150px;
     }
 
     #ivar-article p {
-        line-height: 5px;
+        line-height: 10px;
     }
 
     #ivar-image {
