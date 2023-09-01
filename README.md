@@ -1,7 +1,5 @@
 # Ivar the Boneless
 
-![Ivar the Boneless](assets/readme-images/snippit-of-website.png)
-
 - This project's website is devoted to Ivar the Boneless, a prominent historical figure from the Viking era in England. He played a significant role in the Viking conquest of northern England.
 
 - This website is a fictional educational platform created to inform its audience about the timeline of the Viking invasion of England and the life of Ivar the Boneless. Its sole purpose is to provide educational content and does not engage in any form of product promotion or sales.
@@ -13,9 +11,9 @@ Visit the deployed website [here](https://charmungo98.github.io/project1-ivar-th
 - [Ivar the Boneless](#ivar-the-boneless)
   - [Table of Contents](#table-of-contents)
 - [1. User Experience (UX)](#1-user-experience-ux)
-    - [User Stories and Project Goals](#user-stories-and-project-goals)
+    - [User Experience](#user-experience)
     - [Color Scheme](#color-scheme)
-    - [Typogrophy](#typogrophy)
+    - [Fonts](#fonts)
 - [2. Features](#2-features)
     - [General](#general)
     - [Home Page](#home-page)
@@ -25,9 +23,9 @@ Visit the deployed website [here](https://charmungo98.github.io/project1-ivar-th
     - [Languages](#languages)
     - [Programs Used](#programs-used)
 - [4. Testing](#4-testing)
-    - [Testing User Stories](#testing-user-stories)
+    - [Testing UX](#testing-ux)
     - [Code Validation](#code-validation)
-    - [Testing Using Tools](#testing-using-tools)
+    - [Testing Tools](#testing-tools)
     - [Manual Testing](#manual-testing)
     - [Accessability](#accessability)
 - [5. Finished Product](#5-finished-product)
@@ -41,7 +39,7 @@ Visit the deployed website [here](https://charmungo98.github.io/project1-ivar-th
 
 # 1. User Experience (UX)
 
-### User Stories and Project Goals
+### User Experience
 
 - As an informative website, our aim is to present information in a manner that is easily comprehensible and accessible to all visitors.
 
@@ -66,7 +64,7 @@ The colors used in the site are two different tones of blue (#317773 and #e4f6f8
 
 ![Color Scheme](assets/readme-images/color-scheme.png)
 
-### Typogrophy
+### Fonts
 
 The main font being used in the site is Lugarismo. Roboto is being used for the navbar and for all H2 elements and footer elements. Roboto is also the main font used on the contact page.
 
@@ -172,7 +170,7 @@ The main font being used in the site is Lugarismo. Roboto is being used for the 
 
 # 4. Testing
 
-### Testing User Stories
+### Testing UX
 
 - As a viewer, my goal is to seamlessly explore the website and expand my knowledge on the subject matter at hand.
 
@@ -188,7 +186,7 @@ Additionally, as a viewer, I hope to discover links to the author's social media
 - The footer conveniently provides links to the author's social media channels.
 In my role as a customer, I wish to access further information related to the website's topics. This can be achieved through a link to the Wikipedia page, conveniently located on the contact page.
 
-### Code Validation 
+### Code Validation
 
 - The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) services were used to validate all pages of the project in order to ensure there were no syntax errors.
   
@@ -214,7 +212,7 @@ In my role as a customer, I wish to access further information related to the we
 
 ![prettier-bug](assets/readme-images/prettier-bug.png)
 
-### Testing Using Tools
+### Testing Tools
 
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
@@ -230,9 +228,7 @@ In my role as a customer, I wish to access further information related to the we
 
 ### Manual Testing
 
-- Browser Compatibility
-
-  - The website has been tested on the following browsers:
+  - The website has been tested on:
 
     - **Google Chrome**
 
@@ -274,7 +270,7 @@ In my role as a customer, I wish to access further information related to the we
 
       No appearance, responsiveness nor functionality issues.
 
-- Common Elements Testing
+- Elements Testing
 
   - All Pages
 
@@ -342,9 +338,9 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
 
 ### Content
 
-- All content was written by the developer, however, great inspiration was taken from my fellow Code institue stuents previous projects.
+- All content was written by the developer, however, great inspiration was taken from my fellow Code institue students previous projects.
 
-- Josswe26 project 1 example was a huge inpsiration and greatly assisted in providing the framework stucture for the website code inlcuding the format of HTML and the structure of the README file. Josswe26 provided the framework and structure of the layout of the README file however the content is all of my own origin.
+- Josswe26 VIda Spa project example was a huge inpsiration and greatly assisted in providing the inspiration for the framework stucture of HTML and the structure of the README file, however the content within the inspired framework is my original content.
 
 
 ### Media
