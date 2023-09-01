@@ -372,7 +372,7 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
 - [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
 
 # 8. Acknowledgements
-- Josswe26 for providing inpsiration and the framework stucture for the website and README file.
+- Josswe26 for providing inpsiration and the framework stucture for the website code inlcuding the format of HTML and the structure of the README file.
 
 - My friends, for their constructive and honest criticism.
 
