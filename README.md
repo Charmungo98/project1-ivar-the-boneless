@@ -8,6 +8,37 @@ The website fictional website designed to educate its viewers on the timeline of
 
 Visit the deployed website [here](https://charmungo98.github.io/project1-ivar-the-boneless/).
 
+## Table of Contents
+
+- [Ivar the Boneless](#ivar-the-boneless)
+  - [Table of Contents](#table-of-contents)
+- [1. User Experience (UX)](#1-user-experience-ux)
+    - [User Stories](#user-stories)
+    - [Color Scheme](#color-scheme)
+    - [Typogrophy](#typogrophy)
+- [2. Features](#2-features)
+    - [General](#general)
+    - [Home Page](#home-page)
+    - [Article Page](#article-page)
+    - [Contact Page](#contact-page)
+- [3. Technologies Used](#3-technologies-used)
+    - [Languages](#languages)
+    - [Programs Used](#programs-used)
+- [4. Testing](#4-testing)
+    - [Testing User Stories](#testing-user-stories)
+    - [Code Validation](#code-validation)
+    - [Testing Using Tools](#testing-using-tools)
+    - [Manual Testing](#manual-testing)
+    - [Accessability](#accessability)
+- [5. Finished Product](#5-finished-product)
+- [6. Deployment](#6-deployment)
+    - [GitHub Pages](#github-pages)
+- [7. Credits](#7-credits)
+    - [Content](#content)
+    - [Media](#media)
+    - [Code](#code)
+- [8. Acknowledgements](#8-acknowledgements)
+
 # 1. User Experience (UX)
 
 ### User Stories
@@ -39,10 +70,6 @@ The colors used in the site are two different tones of blue (#317773 and #e4f6f8
 ### Typogrophy
 
 The main font being used in the site is Lugarismoy. Roboto is being used for the navbar, all H2 elements and footer elements, Roboto is also the main font used on the contact page.
-
-### Wireframes
-
-[Balsamiq](https://balsamiq.com/) has been used to showcase the appearance of the site and display the placement of the different elements whitin the pages.
 
 # 2. Features
 
@@ -295,6 +322,8 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 ![ligthouse-contact-page](assets/readme-images/lighthouse-contact.png)
 
 # 5. Finished Product
+
+![Ivar the Boneless](assets/readme-images/snippit-of-website.png)
    
 # 6. Deployment
 
