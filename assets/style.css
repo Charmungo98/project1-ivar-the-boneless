@@ -12,7 +12,12 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: stretch;
+}
+
+.container-reverse {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
 }
 
 header {
@@ -60,11 +65,9 @@ body {
     color: #317773;
 }
 
-/* content section */
 .left-text-content {
     flex: 1;
-    display: block;
-    padding-top: 2%;
+    padding: 15px 10px 15px;
     background-color: #FEFBEA;
     width: 50%;
 }
@@ -80,13 +83,12 @@ body {
 
 .left-text-content p {
     line-height: 25px;
-    margin: auto 5%;
+    padding: 10px;
     text-align: justify;
     font-weight: 600;
 }
 
 .left-image-format {
-    display: block;
     width: 50%;
 }
 
@@ -97,20 +99,18 @@ body {
 }
 
 .right-image-format {
-    display: block;
     width: 50%;
 }
 
 .right-image-format img {
-    flex: 1;
     width: 100%;
     height: 100%;
+    flex: 1;
 }
 
 .right-text-content {
     flex: 1;
-    display: block;
-    padding-top: 2%;
+    padding: 15px 10px 15px;
     background-color: #317773;
     width: 50%;
 }
@@ -126,7 +126,7 @@ body {
 
 .right-text-content p {
     line-height: 25px;
-    margin: auto 5%;
+    padding: 15px;
     text-align: justify;
     font-weight: 600;
     color: white;
@@ -191,7 +191,7 @@ body {
     flex: 3;
     background-color: #FEFBEA;
     padding-top: 35px;
-    
+
 }
 
 #ivar-article h2 {
@@ -310,15 +310,14 @@ textarea {
     #form-section {
         height: 800px;
     }
+}
 
 @media screen and (max-width: 1500px) {
     .left-text-content {
-        position: relative;
         font-size: 85%;
     }
 
     .right-text-content {
-        position: relative;
         font-size: 85%;
     }
 }
@@ -368,13 +367,11 @@ textarea {
     }
 
     .left-text-content {
-        position: relative;
         font-size: 65%;
         line-height: 20px;
     }
 
     .right-text-content {
-        position: relative;
         font-size: 65%;
         line-height: 20px;
     }
@@ -472,6 +469,51 @@ textarea {
     }
 }
 
+@media screen and (max-width: 800px) {
+
+    .container {
+        flex-direction: column;
+    }
+
+    .container-reverse {
+        flex-direction: column;
+    }
+
+    .left-text-content {
+        flex: 1;
+        background-color: #FEFBEA;
+        width: 100%;
+        padding-bottom: 20px;
+    }
+
+    .left-image-format {
+        width: 100%;
+        height: 100%;
+    }
+
+    .right-image-format {
+        width: 100%;
+        height: 100%;
+    }
+
+    .right-text-content {
+        flex: 1;
+        background-color: #317773;
+        padding-bottom: 20px;
+        width: 100%;
+    }
+
+    .right-text-content p {
+        font-size: 150%;
+                font-weight: 600;
+    }
+
+    .left-text-content p {
+        font-size: 150%;
+                font-weight: 600;
+    }
+}
+
 @media screen and (max-width: 650px) {
     header {
         font-size: 80%;
@@ -497,25 +539,15 @@ textarea {
         display: none;
     }
 
-    .left-text-content {
-        position: relative;
-        font-size: 30%;
-    }
+   .right-text-content p {
+       font-size: 134%;
+       font-weight: 600;
+   }
 
-    .right-text-content {
-        position: relative;
-        font-size: 30%;
-    }
-
-    .right-text-content p {
-        line-height: 10px;
-        font-weight: 100;
-    }
-
-    .left-text-content p {
-        line-height: 10px;
-        font-weight: 100;
-    }
+   .left-text-content p {
+       font-size: 140%;
+       font-weight: 600;
+   }
 
     #form-section {
         height: 500px;
