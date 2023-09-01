@@ -473,6 +473,10 @@ textarea {
         width: 100%;
     }
 
+    #ivar-image {
+        display: none;
+    }
+
 @media screen and (max-width: 650px) {
     header {
         font-size: 80%;
