@@ -342,7 +342,7 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
 
 ### Content
 
-- All content was written by the developer.
+- All content was written by the developer, however, great inspiration was taken from my fellow Code institue stuents previous projects.
 
 ### Media
 

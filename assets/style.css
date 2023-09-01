@@ -461,9 +461,9 @@ textarea {
         width: 100%;
     }
 
-        .right-text-content {
-            width: 100%;
-        }
+    .right-text-content {
+        width: 100%;
+    }
 
     .left-image-format {
         width: 100%;
@@ -476,6 +476,7 @@ textarea {
     #ivar-image {
         display: none;
     }
+}
 
 @media screen and (max-width: 650px) {
     header {
