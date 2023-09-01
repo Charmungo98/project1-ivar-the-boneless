@@ -2,9 +2,9 @@
 
 ![Ivar the Boneless](assets/readme-images/snippit-of-website.png)
 
-This project website is dedicated to Ivar the Boneless. Ivar the Boneless is a historical figure within the heart of the Viking era of England, he was an influential figure that contributed greatly to the conquering of the north of England by the Vikings.
+- This project's website is devoted to Ivar the Boneless, a prominent historical figure from the Viking era in England. He played a significant role in the Viking conquest of northern England.
 
-The website fictional website designed to educate its viewers on the timeline of the Viking invasion of England and Ivar the Boneless himself, it is purely educational in purpose and does not try to sell its viewers any form of product.
+- This website is a fictional educational platform created to inform its audience about the timeline of the Viking invasion of England and the life of Ivar the Boneless. Its sole purpose is to provide educational content and does not engage in any form of product promotion or sales.
 
 Visit the deployed website [here](https://charmungo98.github.io/project1-ivar-the-boneless/).
 
@@ -13,7 +13,7 @@ Visit the deployed website [here](https://charmungo98.github.io/project1-ivar-th
 - [Ivar the Boneless](#ivar-the-boneless)
   - [Table of Contents](#table-of-contents)
 - [1. User Experience (UX)](#1-user-experience-ux)
-    - [User Stories](#user-stories)
+    - [User Stories and Project Goals](#user-stories-and-project-goals)
     - [Color Scheme](#color-scheme)
     - [Typogrophy](#typogrophy)
 - [2. Features](#2-features)
@@ -41,25 +41,24 @@ Visit the deployed website [here](https://charmungo98.github.io/project1-ivar-th
 
 # 1. User Experience (UX)
 
-### User Stories
+### User Stories and Project Goals
 
-- As an informational website, I want the website to have a dynamic and clear design that is easy to navigate.
+- As an informative website, our aim is to present information in a manner that is easily comprehensible and accessible to all visitors.
 
-- As an informational website, I want to present the information in a way that is simple to understand and accessible for all viewers.
+- In our capacity as an informational website, we aim to provide viewers with convenient access to our social media links, allowing them to subscribe to future content.
 
-- As an informational website, I want viewers to be able to find my social media links so they are able to subscribe to any future content that is produced.
+- As viewers, we expect the website to offer an intuitive navigation experience while enhancing our understanding of the subject matter.
 
-- As a viewer, I want to be able to navigate the website intuitively and learn more about the informational topic displayed.
+- We desire the ability to navigate the website effortlessly while seeking information on the topic, all within a sleek and visually appealing website design.
 
-- As a viewer, I want to be able to find the information I need as easily and simply as possible, whilst enjoying a sleek and attractive website design.
+- Locating the contact information for the website's authors should be a straightforward process for viewers.
 
-- As a viewer, I want to easily find the contact information for the authors of the website.
+- Additionally, viewers should easily find links to the website owners' social media profiles.
 
-- As a viewer, I want to find social media links to the owners of the website.
+- We also value the opportunity to provide feedback to the website's authors.
 
-- As a viewer, I want to be able to be able to provide feedback to the authors of the website.
+- Furthermore, we seek easily accessible external links to additional information sources that can expand our knowledge on the subject, such as Wikipedia.
 
-- As a viewer, I want to easily find links to further information on the topic in external locations that may add to my knowledge of the subject, such as wikipedia.
 
 ### Color Scheme
 
@@ -69,7 +68,7 @@ The colors used in the site are two different tones of blue (#317773 and #e4f6f8
 
 ### Typogrophy
 
-The main font being used in the site is Lugarismoy. Roboto is being used for the navbar, all H2 elements and footer elements, Roboto is also the main font used on the contact page.
+The main font being used in the site is Lugarismo. Roboto is being used for the navbar and for all H2 elements and footer elements. Roboto is also the main font used on the contact page.
 
 # 2. Features
 
@@ -77,21 +76,21 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - Responsive design across all device sizes.
 
-- Similar color scheme and design throughout all pages to effectively structure, categorise and present the information to the viewers.
+- Similar color scheme and design throughout all pages to effectively disply consistancy and structure throughout the website.
 
 - Header
 
 ![Header-image](assets/readme-images/header.png)
 
-    - The header contains a nuetral background image and a responsive navigation bar positioned across the top of the screen.
+ - The header contains a nuetral background image and a responsive navigation bar positioned across the top of the screen.
 
-    - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color to provide feedback to the customer for a better user experience.
+- The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color to provide feedback to the customer for a better user experience.
 
 - Footer
 
 ![Header-image](assets/readme-images/footer.png)
 
-    - The footer includes a smaller version of the logo and link to the business social media channels.
+- The footer includes a smaller version of the logo and link to the business social media channels.
 
 ### Home Page
 
@@ -99,7 +98,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - Images
 
-  - The images are design to attract the viewers attention and provide a more interattive experience when viewing the landing/viking timeline.
+  - The images are design to attract the viewers attention and provide a more interactive experience when viewing the landing/viking timeline.
 
 - Timeline content
 
@@ -135,10 +134,16 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - HTML5 and CSS3 were used throughout the project.
 
+- [HTML5](https://fonts.google.com/ "Link to HTML5 Wikipedia page")
+
+- [CSS3](https://en.wikipedia.org/wiki/CSS "Link to CSS Wikipedia page")
+
+
 ### Programs Used
 
-- [Google Fonts](https://fonts.google.com/ "Link to Google Fonts")
-  - Google Fonts was used to import the fonts Raleway, Cabin and Qahiri into the style.css file. These fonts were used throughout the site.
+- [Google Fonts](https://en.wikipedia.org/wiki/HTML5 "Link to HTLM5 Wikipedia")
+  - Google Fonts was used to import the fonts Lugarismo and Roboto.
+  
 - [Codeanywhere](https://app.codeanywhere.com/ "Link to Codeanywhere")
 
   - Codeanywhere was used for writing code, commiting, and then pushing to GitHub..
@@ -151,37 +156,37 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
   - Responsive Design Checker was used in the testing process to check responsiveness on various devices.
 - [Am I Responsive?](http://ami.responsivedesign.is/#)
 
-  - Am I Responsive was used to check responsiveness of the site pages across different devices
+  - Am I Responsive was used to check responsiveness of the site pages across different devices and to gain a view of the whole website on different devices all at once.
 
 - [W3C Markup Validator](https://validator.w3.org/)
+  
   - W3C Markup Validator was used to validate the HTML code.
-  -
+
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
   - W3C CSS Validator was used to validate the CSS code.
 
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
-  - Chrome DevTools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project.
+  
+  - During the development phase, Chrome DevTools were employed for testing, examining, and adjusting HTML elements and CSS styles utilized in the project.
 
 # 4. Testing
 
 ### Testing User Stories
 
-- As a viewer I want to be able to navigate the website smoothly and further my lnowledge on the subject being displayed.
+- As a viewer, my goal is to seamlessly explore the website and expand my knowledge on the subject matter at hand.
 
-  - The website offers a intuitive structure for the viewers to navigate and find the information they are looking for.
+- The website boasts an intuitive structure that facilitates effortless navigation for viewers, enabling them to easily access the information they seek.
 
-  - The navigation bar is clearly presented in all pages for the viewers to find with ease and it is easily navigable.
+- The navigation bar is consistently visible on all pages, ensuring viewers can locate it effortlessly and navigate the site with ease.
 
-- As a viewer, I want to easily find the contact information for the author of the webiste if I have any questions.
+- As a viewer, I also desire a straightforward means of contacting the website's author in case I have any inquiries.
 
-  - The footer and contact page contains a clear contact section with all necessary contacts, there is a feedback form on the contact page that allows the viewer to submit any questions or feedback they have.
+- The footer and dedicated contact page prominently display contact information, making it simple for viewers to reach out with questions or feedback via a convenient feedback form.
+Additionally, as a viewer, I hope to discover links to the author's social media profiles.
 
-- As a viewer, I want to find social media links to the author of the webiste.
-
-  - The footer provides link to the author's social media channels.
-
-- As a customer, I want to find further information on the webiite's topics, this cna be found by a link to the wikipedia page on the contact page.
+- The footer conveniently provides links to the author's social media channels.
+In my role as a customer, I wish to access further information related to the website's topics. This can be achieved through a link to the Wikipedia page, conveniently located on the contact page.
 
 ### Code Validation 
 
@@ -191,9 +196,9 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 ![index-html-validator](assets/readme-images/index-html.png)
 
-- Ivar Page
+- Article Page
 
-![ivar-html-validator](assets/readme-images/ivar-html.png)
+![article-html-validator](assets/readme-images/ivar-html.png)
 
 - Contact Page
 
@@ -205,7 +210,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 - W3C CSS Validator found no errors or warnings on my CSS.
 
-- I did discover a slight bug that the prettier sofware cause, certain self closing elements contained a trailing salsh that could not be removed, it does not effec the code but an example of the info warning from W3C validator can be seen below.
+- I did discover a slight bug that the prettier sofware caused, certain self closing elements contained a trailing slash that could not be removed, it does not effect the code but an example of the info warning from W3C validator can be seen below.
 
 ![prettier-bug](assets/readme-images/prettier-bug.png)
 
@@ -239,8 +244,6 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
     - **Mozilla Firefox**
 
-      There was and issue with the appearance of the book buttons on the treatments page expanding all the width. This issue was corrected by changing the width property value from "fit-content" to "max-content".
-
       No responsiveness nor functionality issues.
 
     - **Microsoft Edge**
@@ -259,11 +262,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
       No appearance, responsiveness nor functionality issues.
 
-    - **iPad Pro 12.9"**
-
-      No appearance, responsiveness nor functionality issues.
-
-    - **iPad Mini"**
+    - **iPad Pro**
 
       No appearance, responsiveness nor functionality issues.
 
@@ -271,11 +270,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
       No appearance, responsiveness nor functionality issues.
 
-    - **iPhone XR**
-
-      No appearance, responsiveness nor functionality issues.
-
-    - **Iphone SE**
+    - **iPhone 8**
 
       No appearance, responsiveness nor functionality issues.
 
@@ -307,7 +302,7 @@ The main font being used in the site is Lugarismoy. Roboto is being used for the
 
 ### Accessability
 
-- I used Lighthouse in Chrome Developer Tools to confirm that the colors and fonts being used in throughout the website are easy to read and accessible.
+- I used Lighthouse in Chrome Developer Tools to confirm that the dynamoics of the color scheme and font choice within the article do not contrast each other negatively.
 
 - Home Page
 
@@ -336,8 +331,6 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
   1. Log in to GitHub and locate the [GitHub Repository](https://github.com/).
 
   2. At the top of the Repository, locate the Settings button on the menu.
-
-     - Alternatively click [here](https://raw.githubusercontent.com/) for a GIF demostration of the process.
 
   3. Scroll down the Settings page until you locate the Pages section.
 
@@ -385,4 +378,3 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
 - My mentor Marcel for his helpful guidance, his insight dramatically improved my website quality
 
 - Code Institute for its well developed and diverse lessons that gave me the skills to code this project.
-
