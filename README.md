@@ -344,6 +344,9 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
 
 - All content was written by the developer, however, great inspiration was taken from my fellow Code institue stuents previous projects.
 
+- Josswe26 project 1 example was a huge inpsiration and greatly assisted in providing the framework stucture for the website code inlcuding the format of HTML and the structure of the README file. Josswe26 provided the framework and structure of the layout of the README file however the content is all of my own origin.
+
+
 ### Media
 
 - [Pexels](https://www.pexels.com/)
@@ -372,7 +375,6 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
 - [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
 
 # 8. Acknowledgements
-- Josswe26 for providing inpsiration and the framework stucture for the website code inlcuding the format of HTML and the structure of the README file. Josswe26 provided the framework and structure of the layout of the README file however the content is all of my own origin.
 
 - My friends, for their constructive and honest criticism.
 
