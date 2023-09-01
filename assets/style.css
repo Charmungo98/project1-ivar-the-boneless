@@ -67,7 +67,7 @@ body {
 
 .left-text-content {
     flex: 1;
-    padding: 15px 10px 15px;
+    padding: 15px 2% 15px;
     background-color: #FEFBEA;
     width: 50%;
 }
@@ -110,7 +110,7 @@ body {
 
 .right-text-content {
     flex: 1;
-    padding: 15px 10px 15px;
+    padding: 15px 2% 15px;
     background-color: #317773;
     width: 50%;
 }
@@ -118,7 +118,7 @@ body {
 .right-text-content h2 {
     text-align: center;
     text-decoration: underline;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     font-weight: 900;
     font-family: roboto;
     color: #FEFBEA;
@@ -312,16 +312,6 @@ textarea {
     }
 }
 
-@media screen and (max-width: 1500px) {
-    .left-text-content {
-        font-size: 85%;
-    }
-
-    .right-text-content {
-        font-size: 85%;
-    }
-}
-
 @media screen and (max-width: 1250px) {
     header {
         font-size: 170%;
@@ -366,12 +356,12 @@ textarea {
         height: 400px;
     }
 
-    .left-text-content {
+    .left-text-content p {
         font-size: 65%;
         line-height: 20px;
     }
 
-    .right-text-content {
+    .right-text-content p {
         font-size: 65%;
         line-height: 20px;
     }
@@ -400,18 +390,6 @@ textarea {
 
     #navbar a {
         font-size: 100%;
-    }
-
-    .left-text-content {
-        position: relative;
-        font-size: 50%;
-        line-height: 12px;
-    }
-
-    .right-text-content {
-        position: relative;
-        font-size: 50%;
-        line-height: 12px;
     }
 
     .right-text-content p {
@@ -480,39 +458,20 @@ textarea {
     }
 
     .left-text-content {
-        flex: 1;
-        background-color: #FEFBEA;
         width: 100%;
-        padding-bottom: 20px;
     }
+
+        .right-text-content {
+            width: 100%;
+        }
 
     .left-image-format {
         width: 100%;
-        height: 100%;
     }
 
     .right-image-format {
         width: 100%;
-        height: 100%;
     }
-
-    .right-text-content {
-        flex: 1;
-        background-color: #317773;
-        padding-bottom: 20px;
-        width: 100%;
-    }
-
-    .right-text-content p {
-        font-size: 150%;
-                font-weight: 600;
-    }
-
-    .left-text-content p {
-        font-size: 150%;
-                font-weight: 600;
-    }
-}
 
 @media screen and (max-width: 650px) {
     header {
@@ -535,19 +494,15 @@ textarea {
         font-weight: 100;
     }
 
-    #ivar-image {
-        display: none;
+    .right-text-content p {
+        font-size: 50%;
+        font-weight: 200;
     }
 
-   .right-text-content p {
-       font-size: 134%;
-       font-weight: 600;
-   }
-
-   .left-text-content p {
-       font-size: 140%;
-       font-weight: 600;
-   }
+    .left-text-content p {
+        font-size: 50%;
+        font-weight: 200;
+    }
 
     #form-section {
         height: 500px;
@@ -618,29 +573,6 @@ textarea {
         line-height: 10px;
     }
 
-    #ivar-image {
-        display: none;
-    }
-
-    .left-text-content {
-        position: relative;
-        font-size: 20%;
-    }
-
-    .right-text-content {
-        position: relative;
-        font-size: 20%;
-    }
-
-    .right-text-content p {
-        line-height: 10px;
-        font-weight: 10;
-    }
-
-    .left-text-content p {
-        line-height: 10px;
-        font-weight: 10;
-    }
 
     form {
         font-size: 60%;
