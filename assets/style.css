@@ -302,6 +302,15 @@ textarea {
 }
 
 /* Device amends */
+@media screen and (max-width: 2500px) {
+    #find-out-more {
+        height: 800px;
+    }
+
+    #form-section {
+        height: 800px;
+    }
+
 @media screen and (max-width: 1500px) {
     .left-text-content {
         position: relative;
@@ -342,7 +351,7 @@ textarea {
     }
 
     #form-section {
-        width: 100%
+        width: 100%;
     }
 
     form {
@@ -355,6 +364,7 @@ textarea {
 
     #find-out-more {
         width: 100%;
+        height: 400px;
     }
 
     .left-text-content {
@@ -592,12 +602,12 @@ textarea {
 
     .right-text-content p {
         line-height: 10px;
-        font-weight: 0;
+        font-weight: 10;
     }
 
     .left-text-content p {
         line-height: 10px;
-        font-weight: 0;
+        font-weight: 10;
     }
 
     form {
