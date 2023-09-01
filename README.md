@@ -76,21 +76,21 @@ The main font being used in the site is Lugarismo. Roboto is being used for the 
 
 - Responsive design across all device sizes.
 
-- Similar color scheme and design throughout all pages to effectively disply consistancy and structure throughout the website.
+- Similar color scheme and design throughout all pages to effectively disaply consistency and structure throughout the website.
 
 - Header
 
 ![Header-image](assets/readme-images/header.png)
 
- - The header contains a nuetral background image and a responsive navigation bar positioned across the top of the screen.
+ - The header contains a neutral background image and a responsive navigation bar positioned across the top of the screen.
 
 - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color to provide feedback to the customer for a better user experience.
 
 - Footer
 
-![Header-image](assets/readme-images/footer.png)
+![Footer-image](assets/readme-images/footer.png)
 
-- The footer includes a smaller version of the logo and link to the business social media channels.
+- The footer includes a smaller version of the logo and links to the business social media channels.
 
 ### Home Page
 
@@ -98,7 +98,7 @@ The main font being used in the site is Lugarismo. Roboto is being used for the 
 
 - Images
 
-  - The images are design to attract the viewers attention and provide a more interactive experience when viewing the landing/viking timeline.
+  - The images are designed to attract the viewers attention and provide a more interactive experience when viewing the landing/viking timeline.
 
 - Timeline content
 
@@ -110,7 +110,7 @@ The main font being used in the site is Lugarismo. Roboto is being used for the 
 
 ![ivar-article-image](assets/readme-images/ivar-article.png)
 
-    - The article page demonstrates a breif but detailed timeline of Ivar the boneless life and qualities, it is designed to keep the information compact and easy to understand to ensure its readers attention is kept.
+    - The article page demonstrates a brief but detailed timeline of Ivar the boneless life and qualities, it is designed to keep the information compact and easy to understand to ensure its readers attention is kept.
 
     - An image of Ivar is displayed next to the article to provide a more dynamic article layout.
 
@@ -210,7 +210,7 @@ In my role as a customer, I wish to access further information related to the we
 
 - W3C CSS Validator found no errors or warnings on my CSS.
 
-- I did discover a slight bug that the prettier sofware caused, certain self closing elements contained a trailing slash that could not be removed, it does not effect the code but an example of the info warning from W3C validator can be seen below.
+- I did discover a slight bug that the prettier software caused, certain self closing elements contained a trailing slash that could not be removed, it does not affect the code but an example of the info warning from W3C validator can be seen below.
 
 ![prettier-bug](assets/readme-images/prettier-bug.png)
 
@@ -280,7 +280,7 @@ In my role as a customer, I wish to access further information related to the we
 
     - **Navigation Bar**
 
-      - Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
+      - Hovering on the different navigation bar's links will trigger the hover effect, highlighting the link for the customer.
 
       - Clicking on the navigation bar's links will bring the viewer to the specified page.
 
@@ -290,7 +290,7 @@ In my role as a customer, I wish to access further information related to the we
 
   - Contact Page
 
-    - Hovering on the submit button within the feedback form section will trigger hover effect, highlighting the button for the viewer.
+    - Hovering on the submit button within the feedback form section will trigger the hover effect, highlighting the button for the viewer.
 
   - Feedback Form section
 
@@ -302,7 +302,7 @@ In my role as a customer, I wish to access further information related to the we
 
 ### Accessability
 
-- I used Lighthouse in Chrome Developer Tools to confirm that the dynamoics of the color scheme and font choice within the article do not contrast each other negatively.
+- I used Lighthouse in Chrome Developer Tools to confirm that the dynamics of the color scheme and font choice within the article do not contrast each other negatively.
 
 - Home Page
 
@@ -372,6 +372,7 @@ This website was developed using [Codeanywhere](https://app.codeanywhere.com/), 
 - [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
 
 # 8. Acknowledgements
+- Josswe26 for providing inpsiration and the framework stucture for the website and README file.
 
 - My friends, for their constructive and honest criticism.
 
